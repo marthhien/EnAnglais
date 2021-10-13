@@ -1,0 +1,1634 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="app_name">Aide mémoire - Anglais</string>
+ 
+
+<string name="CAT1"><b>Expressions courantes</b></string>
+<string name="CAT1_content"><font size="18"><b>Expressions courantes</b></font>\n\n
+<b>yes</b>\n   oui\n\n
+<b>no</b>\n   non\n\n
+<b>maybe ou perhaps</b>\n   peut-être\n\n
+<b>please</b>\n   s\'il vous plaît\n\n
+<b>thanks</b>\n   merci\n\n
+<b>thank you</b>\n   merci\n\n
+<b>thanks very much</b>\n   merci beaucoup\n\n
+<b>thank you very much</b>\n   merci beaucoup\n\n
+<b>you\'re welcome</b>\n   je vous en prie\n\n
+<b>don\'t mention it</b>\n   je vous en prie\n\n
+<b>not at all</b>\n   de rien\n\n
+<b>hi</b>\n   salut\n\n
+<b>hello</b>\n   bonjour\n\n
+<b>good morning</b>\n   bonjour\n\n
+<b>good afternoon</b>\n   bonjour\n\n
+<b>good evening</b>\n   bonsoir\n\n
+<b>bye</b>\n   au revoir\n\n
+<b>goodbye</b>\n   au revoir\n\n
+<b>goodnight</b>\n   bonne nuit\n\n
+<b>see you!</b>\n   à plus!\n\n
+<b>see you soon!</b>\n   à bientot!\n\n
+<b>see you later!</b>\n   à plus tard!\n\n
+<b>have a nice day!</b>\n   bonne journée!\n\n
+<b>have a good weekend!</b>\n   bon weekend!\n\n
+<b>excuse me</b>\n   excusez-moi\n\n
+<b>sorry</b>\n   désolé(e), pardon\n\n
+<b>no problem</b>\n   pas de souci\n\n
+<b>it\'s OK ou that\'s OK</b>\n   ce n\'est pas grave, ce n\'est rien\n\n
+<b>don\'t worry about it</b>\n   ce n\'est rien\n\n
+</string>
+
+<string name="CAT2"><b>Autres expressions courantes</b></string>
+<string name="CAT2_content"><font size="18"><b>Autres expressions courantes</b></font>\n\n
+<b>do you speak English?</b>\n   vous parlez anglais?\n\n
+<b>I don\'t speak English</b>\n   je ne parle pas anglais\n\n
+<b>I don\'t speak much English</b>\n   je ne parle pas très bien anglais\n\n
+<b>I only speak very little English</b>\n   je parle juste un peu anglais\n\n
+<b>I speak a little English</b>\n   je parle un peu anglais\n\n
+<b>please speak more slowly</b>\n   pourriez-vous parler plus lentement, s\'il vous plaît?\n\n
+<b>please write it down</b>\n   pourriez-vous me l\'écrire, s\'il vous plaît?\n\n
+<b>could you please repeat that?</b>\n   pourriez-vous répéter cela, s\'il vous plaît?\n\n
+<b>I understand</b>\n   je comprends\n\n
+<b>I don\'t understand</b>\n   je ne comprends pas\n\n
+<b>I know</b>\n   je sais\n\n
+<b>I don\'t know</b>\n   je ne sais pas\n\n
+<b>excuse me, where\'s the toilet?</b>\n   excusez-moi, où sont les toilettes?\n\n
+<b>excuse me, where\'s the Gents?</b>\n   excusez-moi, où sont les toilettes pour hommes?\n\n
+<b>excuse me, where\'s the Ladies?</b>\n   excusez-moi, où sont les toilettes pour dames?\n\n
+<b>Entrance</b>\n   Entrée\n\n
+<b>Exit</b>\n   Sortie\n\n
+<b>Emergency exit</b>\n   Sortie de secours\n\n
+<b>Push</b>\n   Poussez\n\n
+<b>Pull</b>\n   Tirez\n\n
+<b>Toilets</b>\n   Toilettes\n\n
+<b>Gentlemen (ou Gents)</b>\n   Hommes\n\n
+<b>Ladies</b>\n   Dames\n\n
+<b>Vacant</b>\n   Libre\n\n
+<b>Occupied ou Engaged</b>\n   Occupé\n\n
+<b>Out of order</b>\n   Hors service\n\n
+<b>No smoking</b>\n   Défense de fumer\n\n
+<b>Private</b>\n   Privé\n\n
+<b>No entry</b>\n   Entrée interdite\n\n
+</string>
+
+<string name="CAT3"><b>Autres expressions utiles</b></string>
+<string name="CAT3_content"><font size="18"><b>Autres expressions utiles</b></font>\n\n
+<b>OK</b>\n   OK\n\n
+<b>of course</b>\n   bien sûr\n\n
+<b>of course not</b>\n   bien sûr que non\n\n
+<b>that\'s fine</b>\n   c\'est bon\n\n
+<b>that\'s right</b>\n   c\'est vrai\n\n
+<b>sure</b>\n   bien sûr\n\n
+<b>certainly</b>\n   certainement, sans doute\n\n
+<b>definitely</b>\n   absolument, certainement\n\n
+<b>absolutely</b>\n   absolument\n\n
+<b>as soon as possible</b>\n   le plus tôt possible\n\n
+<b>that\'s enough</b>\n   ça suffit\n\n
+<b>it doesn\'t matter</b>\n   cela n\'a pas d\'importance\n\n
+<b>it\'s not important</b>\n   peu importe\n\n
+<b>it\'s not serious</b>\n   ce n\'est pas grave\n\n
+<b>it\'s not worth it</b>\n   cela n\'en vaut pas le coup\n\n
+<b>I\'m in a hurry</b>\n   je suis pressé(e)\n\n
+<b>I\'ve got to go</b>\n   je dois partir\n\n
+<b>I\'m going out</b>\n   je vais sortir\n\n
+<b>sleep well</b>\n   dors bien\n\n
+<b>same to you!</b>\n   toi aussi!\n\n
+<b>me too</b>\n   moi aussi\n\n
+<b>not bad</b>\n   pas mal\n\n
+<b>I like him</b>\n   je l\'aime bien (homme)\n\n
+<b>I like her</b>\n   je l\'aime bien (femme)\n\n
+<b>I like it</b>\n   je l\'aime bien (objet)\n\n
+<b>I don\'t like him</b>\n   je ne l\'aime pas (homme)\n\n
+<b>I don\'t like her</b>\n   je ne l\'aime pas (femme)\n\n
+<b>I don\'t like it</b>\n   je ne l\'aime pas (objet)\n\n
+<b>thanks for your help</b>\n   merci pour ton aide\n\n
+<b>thanks for everything</b>\n   merci pour tout\n\n
+<b>I\'m sorry</b>\n   je suis désolé(e)\n\n
+<b>I\'m really sorry</b>\n   je suis vraiment désolé\n\n
+<b>sorry I\'m late</b>\n   désolé(e) d\'être en retard\n\n
+<b>sorry to keep you waiting</b>\n   désolé de t\'avoir fait attendre\n\n
+<b>sorry for the delay</b>\n   désolé(e) pour le retard\n\n
+<b>look!</b>\n   regarde!\n\n
+<b>great!</b>\n   super!\n\n
+<b>come on!</b>\n   allons!\n\n
+<b>only joking!</b>\n   je plaisantais\n\n
+<b>bless you!</b>\n   à tes souhaits!\n\n
+<b>that\'s funny!</b>\n   c\'est amusant!\n\n
+<b>come in!</b>\n   entrez!\n\n
+<b>please sit down</b>\n   asseyez-vous, s\'il vous plaît\n\n
+<b>could I have your attention, please?</b>\n   votre attention, s\'il vous plaît\n\n
+<b>let\'s go!</b>\n   on y va!\n\n
+<b>hurry up!</b>\n   dépêchez-vous!\n\n
+<b>get a move on!</b>\n   dépêchez-vous!\n\n
+<b>calm down</b>\n   calmez-vous\n\n
+<b>steady on!</b>\n   faites attention!\n\n
+<b>hang on a second</b>\n   attendez une seconde\n\n
+<b>hang on a minute</b>\n   attendez une minute\n\n
+<b>one moment, please</b>\n   un instant, s\'il vous plaît\n\n
+<b>just a minute</b>\n   une minute\n\n
+<b>take your time</b>\n   prenez votre temps\n\n
+<b>please be quiet</b>\n   moins de bruit, s\'il vous plaît\n\n
+<b>stop it!</b>\n   arrêtez!\n\n
+<b>don\'t worry</b>\n   ne vous inquiétez pas\n\n
+<b>don\'t forget</b>\n   n\'oubliez pas\n\n
+<b>help yourself</b>\n   servez-vous\n\n
+<b>go ahead</b>\n   allez-y\n\n
+<b>let me know!</b>\n   faites-moi connaître votre réponse!\n\n
+<b>after you!</b>\n   après vous!\n\n
+<b>here</b>\n   ici\n\n
+<b>there</b>\n   là\n\n
+<b>everywhere</b>\n   partout\n\n
+<b>nowhere</b>\n   nulle part\n\n
+<b>somewhere</b>\n   quelque part\n\n
+</string>
+
+<string name="CAT4"><b>Questions courantes</b></string>
+<string name="CAT4_content"><font size="18"><b>Questions courantes</b></font>\n\n
+<b>where are you?</b>\n   où es-tu?, où êtes-vous?\n\n
+<b>what\'s this?</b>\n   qu\'est-ce que c\'est? (à proximité)\n\n
+<b>what\'s that?</b>\n   qu\'est-ce que c\'est? (qui n\'est pas à proximité)\n\n
+<b>is anything wrong?</b>\n   ça ne va pas?\n\n
+<b>what\'s the matter?</b>\n   qu\'est-ce qui ne va pas?\n\n
+<b>is everything OK?</b>\n   est-ce que tout va bien?\n\n
+<b>have you got a minute?</b>\n   tu as une minute?\n\n
+<b>have you got a pen I could borrow?</b>\n   puis-je emprunter ton stylo?\n\n
+<b>really?</b>\n   vraiment?\n\n
+<b>are you sure?</b>\n   tu es sûr(e)?\n\n
+<b>why?</b>\n   pourquoi?\n\n
+<b>why not?</b>\n   pourquoi pas?\n\n
+<b>what\'s going on?</b>\n   qu\'est-ce qui se passe?\n\n
+<b>what\'s happening?</b>\n   qu\'est-ce qui se passe?\n\n
+<b>what happened?</b>\n   qu\'est-ce qui s\'est passé?\n\n
+<b>what?</b>\n   quoi?/comment?\n\n
+<b>where?</b>\n   où?\n\n
+<b>when?</b>\n   quand?\n\n
+<b>who?</b>\n   qui?\n\n
+<b>how?</b>\n   comment?\n\n
+<b>how many?</b>\n   combien?\n\n
+<b>how much?</b>\n   combien?\n\n
+<b>congratulations!</b>\n   félicitations!\n\n
+<b>well done!</b>\n   bravo!\n\n
+<b>good luck!</b>\n   bonne chance!\n\n
+<b>bad luck!</b>\n   pas de chance!\n\n
+<b>never mind!</b>\n   tant pis!\n\n
+<b>what a pity! ou what a shame!</b>\n   quel dommage!\n\n
+<b>happy birthday!</b>\n   joyeux anniversaire!\n\n
+<b>glad to hear it</b>\n   content(e) de l\'apprendre\n\n
+<b>sorry to hear that</b>\n   désolé(e) de l\'apprendre\n\n
+<b>I\'m tired</b>\n   je suis fatigué(e)\n\n
+<b>I\'m hungry</b>\n   j\'ai faim\n\n
+<b>I\'m thirsty</b>\n   j\'ai soif\n\n
+<b>I\'m bored</b>\n   je m\'ennuie\n\n
+<b>I\'m worried</b>\n   je suis inquiet/inquiète\n\n
+<b>I\'m looking forward to it</b>\n   j\'attends cela avec impatience\n\n
+<b>I\'m in a good mood</b>\n   je suis de bonne humeur\n\n
+<b>I\'m in a bad mood</b>\n   je suis de mauvaise humeur\n\n
+<b>welcome!</b>\n   bienvenue!\n\n
+<b>welcome to &#8230;</b>\n   bienvenue &#8230;\n\n
+<b>long time, no see!</b>\n   il y a longtemps que je ne vous ai pas vu(e)\n\n
+<b>all the best!</b>\n   porte-toi bien!\n\n
+<b>see you tomorrow!</b>\n   à demain!\n\n
+<b>what do you think?</b>\n   qu\'est-ce que tu en penses?\n\n
+<b>I think that &#8230;</b>\n   je pense que &#8230;\n\n
+<b>I hope that &#8230;</b>\n   j\'espère que &#8230;\n\n
+<b>I\'m afraid that &#8230;</b>\n   je crains que &#8230;\n\n
+<b>in my opinion, &#8230;</b>\n   à mon avis, &#8230;\n\n
+<b>I agree</b>\n   je suis d\'accord\n\n
+<b>I disagree ou I don\'t agree</b>\n   je ne suis pas d\'accord\n\n
+<b>that\'s true</b>\n   c\'est vrai\n\n
+<b>that\'s not true</b>\n   ce n\'est pas vrai\n\n
+<b>I think so</b>\n   je pense que oui\n\n
+<b>I don\'t think so</b>\n   je ne pense pas\n\n
+<b>I hope so</b>\n   j\'espère que oui, j\'espère bien\n\n
+<b>I hope not</b>\n   j\'espère que non\n\n
+<b>you\'re right</b>\n   tu as raison\n\n
+<b>you\'re wrong</b>\n   tu as tort\n\n
+<b>I don\'t mind</b>\n   ça ne me dérange pas\n\n
+<b>it\'s up to you</b>\n   comme tu veux\n\n
+<b>that depends</b>\n   ça dépend\n\n
+<b>that\'s interesting</b>\n   c\'est intéressant\n\n
+<b>that\'s funny, &#8230;</b>\n   c\'est curieux, &#8230;\n\n
+</string>
+
+<string name="CAT5"><b>Urgences</b></string>
+<string name="CAT5_content"><font size="18"><b>Urgences</b></font>\n\n
+<b>help!</b>\n   au secours!\n\n
+<b>be careful!</b>\n   faites attention!\n\n
+<b>look out! ou watch out!</b>\n   attention!\n\n
+<b>please help me</b>\n   aidez-moi, s\'il vous plaît\n\n
+<b>call an ambulance!</b>\n   appelez une ambulance!\n\n
+<b>I need a doctor</b>\n   j\'ai besoin d\'un médecin\n\n
+<b>there\'s been an accident</b>\n   il y a eu un accident\n\n
+<b>please hurry!</b>\n   dépêchez-vous, s\'il vous plaît!\n\n
+<b>I\'ve cut myself</b>\n   je me suis coupé\n\n
+<b>I\'ve burnt myself</b>\n   je me suis brûlé\n\n
+<b>are you OK?</b>\n   ça va?\n\n
+<b>is everyone OK?</b>\n   tout le monde va bien?\n\n
+<b>Crime</b>\n   Délits\n\n
+<b>stop, thief!</b>\n   au voleur!\n\n
+<b>call the police!</b>\n   appelez la police!\n\n
+<b>my wallet\'s been stolen</b>\n   on m\'a volé mon portefeuille\n\n
+<b>my purse has been stolen</b>\n   on m\'a volé mon portemonnaie\n\n
+<b>my handbag\'s been stolen</b>\n   on m\'a volé mon sac à main\n\n
+<b>my laptop\'s been stolen</b>\n   on m\'a volé mon ordinateur portable\n\n
+<b>my phone\'s been stolen</b>\n   on m\'a volé mon téléphone\n\n
+<b>I\'d like to report a theft</b>\n   je voudrais déclarer un vol\n\n
+<b>my car\'s been broken into</b>\n   on m\'a forcé ma voiture\n\n
+<b>I\'ve been mugged</b>\n   on m\'a dépouillé(e)\n\n
+<b>I\'ve been attacked</b>\n   on m\'a agressé(e)\n\n
+<b>fire!</b>\n   au feu!\n\n
+<b>call the fire brigade!</b>\n   appelez les pompiers!\n\n
+<b>can you smell burning?</b>\n   sentez-vous cette odeur de brûlé?\n\n
+<b>there\'s a fire</b>\n   il y a le feu\n\n
+<b>the building\'s on fire</b>\n   le bâtiment est en feu\n\n
+<b>I\'m lost</b>\n   je suis perdu(e)\n\n
+<b>we\'re lost</b>\n   nous sommes perdu(e)s\n\n
+<b>I can\'t find my keys</b>\n   je ne retrouve pas mes clés\n\n
+<b>I can\'t find my passport</b>\n   je ne retrouve pas mon passeport\n\n
+<b>I can\'t find my mobile</b>\n   je ne retrouve pas mon portable\n\n
+<b>I\'ve lost my wallet</b>\n   j\'ai perdu mon portefeuille\n\n
+<b>I\'ve lost my purse</b>\n   j\'ai perdu mon portemonnaie\n\n
+<b>I\'ve lost my camera</b>\n   j\'ai perdu mon appareil photo\n\n
+<b>I\'ve locked myself out of my car</b>\n   j\'ai fermé la porte de ma voiture\n\n
+<b>I\'ve locked myself out of my room</b>\n   j\'ai fermé la porte de ma chambre\n\n
+<b>please leave me alone</b>\n   laissez-moi tranquille, s\'il vous plaît\n\n
+<b>go away!</b>\n   Allez-vous en!\n\n
+</string>
+
+<string name="CAT6"><b>Conversation générale</b></string>
+<string name="CAT6_content"><font size="18"><b>Conversation générale</b></font>\n\n
+<b>how are you?</b>\n   comment vas-tu?\n\n
+<b>how are you doing?</b>\n   ça va?\n\n
+<b>how are things?</b>\n   ça va?, quoi de neuf?\n\n
+<b>I\'m fine, thanks</b>\n   très bien, merci\n\n
+<b>I\'m OK, thanks</b>\n   ça va, merci\n\n
+<b>not too bad, thanks</b>\n   pas mal, merci\n\n
+<b>alright, thanks</b>\n   ça va, merci\n\n
+<b>not so well</b>\n   pas très bien\n\n
+<b>how about you?</b>\n   et toi?\n\n
+<b>and you?</b>\n   et toi?\n\n
+<b>and yourself?</b>\n   et toi?\n\n
+<b>what are you up to?</b>\n   tu fais quoi?\n\n
+<b>working a lot</b>\n   j\'ai beaucoup travaillé\n\n
+<b>studying a lot</b>\n   j\'ai beaucoup travaillé sur mes cours\n\n
+<b>I\'ve been very busy</b>\n   j\'ai été très occupé(e)\n\n
+<b>same as usual</b>\n   comme d\'habitude\n\n
+<b>not much ou not a lot</b>\n   pas grand-chose\n\n
+<b>I\'ve just come back from &#8230;</b>\n   je viens de rentrer &#8230;\n\n
+<b>where are you?</b>\n   où es-tu?\n\n
+<b>I\'m at home</b>\n   je suis à la maison\n\n
+<b>I\'m at work</b>\n   je suis au travail\n\n
+<b>I\'m in town</b>\n   je suis en ville\n\n
+<b>I\'m in the countryside</b>\n   je suis à la campagne\n\n
+<b>I\'m at the shops</b>\n   je suis aux magasins\n\n
+<b>I\'m on a train</b>\n   je suis dans le train\n\n
+<b>I\'m at Peter\'s</b>\n   je suis chez Peter\n\n
+<b>do you have any plans for the summer?</b>\n   tu as des projets pour cet été?\n\n
+<b>what are you doing for &#8230;?</b>\n   qu\'est-ce que tu as de prévu pour &#8230;?\n\n
+<b>Christmas</b>\n   Noël\n\n
+<b>New Year</b>\n   le nouvel an\n\n
+<b>Easter</b>\n   Pâques\n\n
+</string>
+
+<string name="CAT7"><b>Faire connaissance</b></string>
+<string name="CAT7_content"><font size="18"><b>Faire connaissance</b></font>\n\n
+<b>what\'s your name?</b>\n   comment t\'appelles-tu?\n\n
+<b>my name\'s &#8230;</b>\n   je m\'appelle &#8230;\n\n
+<b>I\'m &#8230;</b>\n   je suis &#8230;\n\n
+<b>this is &#8230;</b>\n   je te présente &#8230;\n\n
+<b>my wife</b>\n   ma femme\n\n
+<b>my husband</b>\n   mon mari\n\n
+<b>my boyfriend</b>\n   mon petit ami\n\n
+<b>my girlfriend</b>\n   ma petite amie\n\n
+<b>my son</b>\n   mon fils\n\n
+<b>my daughter</b>\n   ma fille\n\n
+<b>I\'m sorry, I didn\'t catch your name</b>\n   pardon, je n\'ai pas compris votre nom\n\n
+<b>do you know each other?</b>\n   vous vous connaissez?\n\n
+<b>nice to meet you</b>\n   enchanté(e) de faire ta connaissance\n\n
+<b>pleased to meet you</b>\n   enchanté(e) de faire ta connaissance\n\n
+<b>how do you do?</b>\n   comment allez-vous?\n\n
+<b>Where are you from?</b>\n   Vous êtes d\'où?\n\n
+<b>where are you from?</b>\n   tu es d\'où?\n\n
+<b>where do you come from?</b>\n   tu viens d\'où?\n\n
+<b>I\'m from &#8230;</b>\n   je viens &#8230;\n\n
+<b>I\'m on holiday</b>\n   je suis en vacances\n\n
+<b>I\'m on business</b>\n   je suis en voyage d\'affaires\n\n
+<b>I live here</b>\n   je vis ici\n\n
+<b>I work here</b>\n   je travaille ici\n\n
+<b>I study here</b>\n   je suis étudiant(e) ici\n\n
+<b>why did you come to &#8230;?</b>\n   pourquoi es-tu venu(e) &#8230;?\n\n
+<b>I came here to work</b>\n   je suis venu ici pour mon travail\n\n
+<b>I came here to study</b>\n   je suis venu ici pour mes études\n\n
+<b>I wanted to live abroad</b>\n   je voulais vivre à l\'étranger\n\n
+<b>how long have you lived here?</b>\n   depuis combien de temps vis-tu ici?\n\n
+<b>I\'ve only just arrived</b>\n   je viens juste d\'arriver\n\n
+<b>a few months</b>\n   quelques mois\n\n
+<b>about a year</b>\n   environ un an\n\n
+<b>just over two years</b>\n   un peu plus de deux ans\n\n
+<b>three years</b>\n   trois ans\n\n
+<b>how long are you planning to stay here?</b>\n   tu prévois de rester ici combien de temps?\n\n
+<b>until August</b>\n   jusqu\'au mois d\'août\n\n
+<b>a few months</b>\n   quelques mois\n\n
+<b>another year</b>\n   une année de plus\n\n
+<b>I\'m not sure</b>\n   je n\'en suis pas sûr(e)\n\n
+<b>do you like it here?</b>\n   ça te plaît ici?\n\n
+<b>yes, I love it!</b>\n   oui, j\'adore!\n\n
+<b>I like it a lot</b>\n   je l\'aime beaucoup\n\n
+<b>it\'s OK</b>\n   ça va\n\n
+<b>what do you like about it?</b>\n   qu\'est-ce que tu aimes en particulier?\n\n
+<b>I like the &#8230;</b>\n   j\'aime &#8230;\n\n
+</string>
+
+<string name="CAT8"><b>Conversation complémentaire</b></string>
+<string name="CAT8_content"><font size="18"><b>Conversation complémentaire</b></font>\n\n
+<b>how old are you?</b>\n   quel âge as-tu?\n\n
+<b>I\'m &#8230;</b>\n   j\'ai &#8230; ans\n\n
+<b>twenty-two</b>\n   vingt-deux\n\n
+<b>thirty-eight</b>\n   trente-huit\n\n
+<b>when\'s your birthday?</b>\n   c\'est quand, ton anniversaire?\n\n
+<b>it\'s &#8230;</b>\n   c\'est &#8230;\n\n
+<b>16 May</b>\n   le 16 mai\n\n
+<b>2 October</b>\n   le 2 octobre \n\n
+<b>my boyfriend</b>\n   mon petit ami\n\n
+<b>my girlfriend</b>\n   ma petite amie\n\n
+<b>my partner</b>\n   mon ami(e), mon copain/ma copine\n\n
+<b>my husband</b>\n   mon mari\n\n
+<b>my wife</b>\n   ma femme\n\n
+<b>my parents</b>\n   mes parents\n\n
+<b>a friend</b>\n   un(e) amie(e)\n\n
+<b>friends</b>\n   des amis\n\n
+<b>relatives</b>\n   de la famille\n\n
+<b>what\'s your phone number?</b>\n   quel est ton numéro de téléphone?\n\n
+<b>what\'s your email address?</b>\n   quelle est ton adresse e-mail?\n\n
+<b>could I take your phone number?</b>\n   tu pourrais me donner ton numéro de téléphone, s\'il te plaît?\n\n
+<b>could I take your email address?</b>\n   tu pourrais me donner ton adresse email, s\'il te plaît?\n\n
+<b>are you on &#8230;?</b>\n   tu es sur&#8230;?\n\n
+<b>do you have any brothers or sisters?</b>\n   tu as des frères et soeurs?\n\n
+<b>yes, I\'ve got &#8230;</b>\n   oui, j\'ai &#8230;\n\n
+<b>a brother</b>\n   un frère\n\n
+<b>a sister</b>\n   une soeur\n\n
+<b>an elder brother</b>\n   un grand frère\n\n
+<b>a younger sister</b>\n   une petite soeur\n\n
+<b>two brothers</b>\n   deux frères\n\n
+<b>two sisters</b>\n   deux soeurs\n\n
+<b>one brother and two sisters</b>\n   un frère et deux soeurs\n\n
+<b>no, I\'m an only child</b>\n   non, je suis fils/fille unique\n\n
+<b>have you got any kids?</b>\n   tu as des enfants?\n\n
+<b>do you have any children?</b>\n   tu as des enfants?\n\n
+<b>yes, I\'ve got &#8230;</b>\n   oui, j\'ai &#8230;\n\n
+<b>a boy and a girl</b>\n   un garçon et une fille\n\n
+<b>a young baby</b>\n   un bébé\n\n
+<b>three kids</b>\n   trois enfants\n\n
+<b>I don\'t have any children</b>\n   je n\'ai pas d\'enfants\n\n
+<b>do you have any grandchildren?</b>\n   tu as des petits-enfants?\n\n
+<b>what do your parents do?</b>\n   que font tes parents?\n\n
+<b>what does your father do?</b>\n   que fait ton père?\n\n
+<b>what does your mother do?</b>\n   que fait ta mère?\n\n
+<b>do you have a boyfriend?</b>\n   tu as un petit ami?\n\n
+<b>do you have a girlfriend?</b>\n   tu as une petite amie?\n\n
+<b>are you married?</b>\n   tu es marié(e)?\n\n
+<b>are you single?</b>\n   tu es célibataire?\n\n
+<b>are you seeing anyone?</b>\n   tu as quelqu\'un?\n\n
+<b>I\'m &#8230;</b>\n   je suis &#8230;\n\n
+<b>single</b>\n   célibataire\n\n
+<b>engaged</b>\n   fiancé(e)\n\n
+<b>married</b>\n   marié(e)\n\n
+<b>divorced</b>\n   divorcé(e)\n\n
+<b>separated</b>\n   séparé(e)\n\n
+<b>a widow</b>\n   veuve\n\n
+<b>a widower</b>\n   veuf\n\n
+<b>I\'m seeing someone</b>\n   j\'ai quelqu\'un\n\n
+<b>I\'ve got &#8230;</b>\n   j\'ai &#8230;\n\n
+<b>a dog and two cats</b>\n   un chien et deux chats\n\n
+<b>what\'s his name?</b>\n   comment s\'appelle-t-il?\n\n
+<b>he\'s called &#8230;</b>\n   il s\'appelle &#8230;\n\n
+<b>what\'s her name?</b>\n   comment s\'appelle-t-elle?\n\n
+<b>she\'s called &#8230;</b>\n   elle s\'appelle &#8230;\n\n
+<b>what are their names?</b>\n   comment s\'appellent-ils?\n\n
+<b>they\'re called &#8230;</b>\n   ils s\'appellent &#8230;\n\n
+<b>how old is he?</b>\n   quel âge a-t-il?\n\n
+<b>he\'s &#8230;</b>\n   il a &#8230;\n\n
+<b>twelve</b>\n   douze ans\n\n
+<b>how old is she?</b>\n   quel âge a-t-elle?\n\n
+<b>she\'s &#8230;</b>\n   elle a &#8230;\n\n
+<b>fifteen</b>\n   quinze ans\n\n
+<b>how old are they?</b>\n   quel âge ont-ils?\n\n
+<b>they\'re &#8230;</b>\n   ils ont &#8230;\n\n
+<b>six and eight</b>\n   six et huit ans\n\n
+</string>
+
+<string name="CAT9"><b>Temps</b></string>
+<string name="CAT9_content"><font size="18"><b>Temps</b></font>\n\n
+<b>the day before yesterday</b>\n   avant-hier\n\n
+<b>yesterday</b>\n   hier\n\n
+<b>today</b>\n   aujourd\'hui\n\n
+<b>tomorrow</b>\n   demain\n\n
+<b>the day after tomorrow</b>\n   après-demain\n\n
+<b>last night</b>\n   hier soir, la nuit dernière\n\n
+<b>tonight</b>\n   ce soir, cette nuit\n\n
+<b>tomorrow night</b>\n   demain soir\n\n
+<b>in the morning</b>\n   le matin, dans la matinée\n\n
+<b>in the afternoon</b>\n   l\'après-midi, dans l\'après-midi\n\n
+<b>in the evening</b>\n   le soir, dans la soirée\n\n
+<b>yesterday morning</b>\n   hier matin\n\n
+<b>yesterday afternoon</b>\n   hier après-midi\n\n
+<b>yesterday evening</b>\n   hier soir\n\n
+<b>this morning</b>\n   ce matin\n\n
+<b>this afternoon</b>\n   cet après-midi\n\n
+<b>this evening</b>\n   ce soir\n\n
+<b>tomorrow morning</b>\n   demain matin\n\n
+<b>tomorrow afternoon</b>\n   demain après-midi\n\n
+<b>tomorrow evening</b>\n   demain soir\n\n
+<b>last week</b>\n   la semaine dernière\n\n
+<b>last month</b>\n   le mois dernier\n\n
+<b>last year</b>\n   l\'année dernière\n\n
+<b>this week</b>\n   cette semaine\n\n
+<b>this month</b>\n   ce mois-ci\n\n
+<b>this year</b>\n   cette année\n\n
+<b>next week</b>\n   la semaine prochaine\n\n
+<b>next month</b>\n   le mois prochain\n\n
+<b>next year</b>\n   l\'année prochaine\n\n
+<b>five minutes ago</b>\n   il y a cinq minutes\n\n
+<b>an hour ago</b>\n   il y a une heure\n\n
+<b>a week ago</b>\n   il y a une semaine\n\n
+<b>two weeks ago</b>\n   il y a deux semaines\n\n
+<b>a month ago</b>\n   il y a un mois\n\n
+<b>a year ago</b>\n   il y a un an\n\n
+<b>a long time ago</b>\n   il y a longtemps\n\n
+<b>in ten minutes\' time ou in ten minutes</b>\n   dans dix minutes\n\n
+<b>in an hour\'s time ou in an hour</b>\n   dans une heure\n\n
+<b>in a week\'s time ou in a week</b>\n   dans une semaine\n\n
+<b>in ten days\' time ou in ten days</b>\n   dans dix jours\n\n
+<b>in three weeks\' time ou in three weeks</b>\n   dans trois semaines\n\n
+<b>in two months\' time ou in two months</b>\n   dans deux mois\n\n
+<b>in ten years\' time ou in ten years</b>\n   dans dix ans\n\n
+<b>the previous day</b>\n   le jour précédent\n\n
+<b>the previous week</b>\n   la semaine précédente\n\n
+<b>the previous month</b>\n   le mois précédent\n\n
+<b>the previous year</b>\n   l\'année précédente\n\n
+<b>the following day</b>\n   le jour suivant, le lendemain\n\n
+<b>the following week</b>\n   la semaine suivante\n\n
+<b>the following month</b>\n   le mois suivant\n\n
+<b>the following year</b>\n   l\'année suivante\n\n
+<b>I lived in Canada for six months</b>\n   j\'ai vécu au Canada pendant six mois\n\n
+<b>I\'ve worked here for nine years</b>\n   je travaille ici depuis neuf ans\n\n
+<b>I\'m going to France tomorrow for two weeks</b>\n   je pars en France demain pour deux semaines\n\n
+<b>we were swimming for a long time</b>\n   nous avons nagé longtemps\n\n
+</string>
+
+<string name="CAT10"><b>L\'Heure</b></string>
+<string name="CAT10_content"><font size="18"><b>L\'Heure</b></font>\n\n
+<b>what\'s the time?</b>\n   quelle heure il est?\n\n
+<b>what time is it?</b>\n   quelle heure est-il?\n\n
+<b>could you tell me the time, please?</b>\n   pourriez-vous m\'indiquer l\'heure, s\'il vous plaît?\n\n
+<b>it\'s &#8230;</b>\n   il est &#8230;\n\n
+<b>exactly &#8230;</b>\n   exactement &#8230;\n\n
+<b>about &#8230;</b>\n   environ &#8230;\n\n
+<b>almost &#8230;</b>\n   presque &#8230;\n\n
+<b>just gone &#8230;</b>\n   tout juste &#8230; passée(s)\n\n
+<b>one o\'clock</b>\n   une heure\n\n
+<b>two o\'clock</b>\n   deux heures\n\n
+<b>three o\'clock</b>\n   trois heures\n\n
+<b>four o\'clock</b>\n   quatre heures\n\n
+<b>five o\'clock</b>\n   cinq heures\n\n
+<b>six o\'clock</b>\n   six heures\n\n
+<b>seven o\'clock</b>\n   sept heures\n\n
+<b>eight o\'clock</b>\n   huit heures\n\n
+<b>nine o\'clock</b>\n   neuf heures\n\n
+<b>ten o\'clock</b>\n   dix heures\n\n
+<b>eleven o\'clock</b>\n   onze heures\n\n
+<b>twelve o\'clock</b>\n   douze heures\n\n
+<b>quarter past &#8230;</b>\n   &#8230; et quart\n\n
+<b>one</b>\n   une heure\n\n
+<b>two</b>\n   deux heures\n\n
+<b>three</b>\n   trois heures\n\n
+<b>half past &#8230;</b>\n   &#8230; et demie\n\n
+<b>one</b>\n   une heure\n\n
+<b>two</b>\n   deux heures\n\n
+<b>three</b>\n   trois heures\n\n
+<b>quarter to &#8230;</b>\n   &#8230; moins le quart\n\n
+<b>one</b>\n   une heure\n\n
+<b>two</b>\n   deux heures\n\n
+<b>three</b>\n   trois heures\n\n
+<b>five past one</b>\n   une heure cinq\n\n
+<b>ten past one</b>\n   une heure dix\n\n
+<b>twenty past one</b>\n   une heure vingt\n\n
+<b>twenty-five past one</b>\n   une heure vingt-cinq\n\n
+<b>five to two</b>\n   deux heures moins cinq\n\n
+<b>ten to two</b>\n   deux heures moins dix\n\n
+<b>twenty to two</b>\n   deux heures moins vingt\n\n
+<b>twenty-five to two</b>\n   deux heures moins vingt-cinq\n\n
+<b>ten fifteen</b>\n   dix heures quinze\n\n
+<b>ten thirty</b>\n   dix heures trente\n\n
+<b>ten forty-five</b>\n   dix heures quarante-cinq\n\n
+<b>ten am</b>\n   dix heures (du matin)\n\n
+<b>six pm</b>\n   dix-huit heures\n\n
+<b>noon ou midday</b>\n   midi\n\n
+<b>midnight</b>\n   minuit\n\n
+<b>my watch is &#8230;</b>\n   ma montre &#8230;\n\n
+<b>fast</b>\n   avance\n\n
+<b>slow</b>\n   retarde\n\n
+<b>that clock\'s a little &#8230;</b>\n   cette pendule &#8230; un peu\n\n
+<b>fast</b>\n   avance\n\n
+<b>slow</b>\n   retarde\n\n
+</string>
+
+<string name="CAT11"><b>Dates</b></string>
+<string name="CAT11_content"><font size="18"><b>Dates</b></font>\n\n
+<b>what\'s the date today?</b>\n   nous sommes le combien aujourd\'hui?\n\n
+<b>what\'s today\'s date?</b>\n   quelle est la date aujourd\'hui?\n\n
+<b>15 October ou October 15</b>\n   le 15 octobre\n\n
+<b>Monday, 1 January</b>\n   lundi 1er janvier\n\n
+<b>on 2 February</b>\n   le 2 février\n\n
+<b>at the beginning of July</b>\n   début juillet\n\n
+<b>in mid-December</b>\n   à la mi-décembre\n\n
+<b>at the end of March</b>\n   fin mars\n\n
+<b>by the end of June</b>\n   pour fin juin\n\n
+<b>Years</b>\n   Années\n\n
+</string>
+
+<string name="CAT12"><b>Température</b></string>
+<string name="CAT12_content"><font size="18"><b>Température</b></font>\n\n
+<b>what\'s the weather like?</b>\n   quel temps fait-il?\n\n
+<b>it\'s sunny</b>\n   il fait du soleil\n\n
+<b>it\'s cloudy</b>\n   il fait nuageux\n\n
+<b>it\'s windy</b>\n   il fait du vent\n\n
+<b>it\'s foggy</b>\n   il fait du brouillard\n\n
+<b>it\'s stormy</b>\n   il fait de la tempête\n\n
+<b>it\'s raining</b>\n   il pleut\n\n
+<b>it\'s hailing</b>\n   il grêle\n\n
+<b>it\'s snowing</b>\n   il neige\n\n
+<b>what a nice day!</b>\n   quelle agréable journée!\n\n
+<b>what a beautiful day!</b>\n   quelle belle journée!\n\n
+<b>it\'s not a very nice day</b>\n   il ne fait pas très beau aujourd\'hui\n\n
+<b>what a terrible day!</b>\n   quel sale temps!\n\n
+<b>it\'s starting to rain</b>\n   il commence à pleuvoir\n\n
+<b>it\'s stopped raining</b>\n   il a arrêté de pleuvoir\n\n
+<b>it\'s pouring with rain</b>\n   il pleut à verse\n\n
+<b>the weather\'s fine</b>\n   il fait beau\n\n
+<b>the sun\'s shining</b>\n   le soleil brille\n\n
+<b>there\'s not a cloud in the sky</b>\n   le ciel est bien dégagé\n\n
+<b>the sky\'s overcast</b>\n   le ciel est couvert\n\n
+<b>it\'s clearing up</b>\n   ça se dégage\n\n
+<b>the sun\'s come out</b>\n   le soleil est revenu\n\n
+<b>the sun\'s just gone in</b>\n   le soleil vient de se cacher\n\n
+<b>there\'s a strong wind</b>\n   il y a des vents violents\n\n
+<b>the wind\'s dropped</b>\n   le vent est tombé\n\n
+<b>that sounds like thunder</b>\n   on dirait de l\'orage\n\n
+<b>that\'s lightning</b>\n   il y a des éclairs\n\n
+<b>we had a lot of heavy rain this morning</b>\n   on a eu beaucoup de grosses averses ce matin\n\n
+<b>we haven\'t had any rain for a fortnight</b>\n   il n\'a pas plu depuis deux semaines\n\n
+<b>what\'s the temperature?</b>\n   quelle température fait-il?\n\n
+<b>it\'s 22°C</b>\n   il fait 22°C\n\n
+<b>what temperature do you think it is?</b>\n   il fait quelle température à ton avis?\n\n
+<b>probably about 30°C</b>\n   sûrement à peu près 30°C\n\n
+<b>it\'s hot</b>\n   il fait chaud\n\n
+<b>it\'s cold</b>\n   vfroid\n\n
+<b>it\'s baking hot</b>\n   il fait très chaud (littéralement: il fait aussi chaud que dans un four)\n\n
+<b>it\'s freezing</b>\n   il fait très froid (littéralement: il gèle)\n\n
+<b>it\'s freezing cold</b>\n   il fait très froid (littéralement: il fait suffisament froid pour qu\'il y ait du givre)\n\n
+<b>it\'s below freezing</b>\n   il fait en dessous de zéro\n\n
+<b>what\'s the forecast?</b>\n   ils annoncent quel temps?\n\n
+<b>what\'s the forecast like?</b>\n   que dit la météo?\n\n
+<b>it\'s forecast to rain</b>\n   ils annoncent de la pluie\n\n
+<b>it\'s going to freeze tonight</b>\n   il va geler cette nuit\n\n
+<b>it looks like rain</b>\n   on dirait qu\'il va pleuvoir\n\n
+<b>it looks like it\'s going to rain</b>\n   le temps est à la pluie\n\n
+<b>we\'re expecting a thunderstorm</b>\n   on attend des orages\n\n
+<b>it\'s supposed to clear up later</b>\n   ça devrait se dégager plus tard\n\n
+</string>
+
+<string name="CAT13"><b>Voyager</b></string>
+<string name="CAT13_content"><font size="18"><b>Voyager</b></font>\n\n
+<b>where\'s the ticket office?</b>\n   où est le guichet?\n\n
+<b>bus</b>\n   bus\n\n
+<b>train</b>\n   train\n\n
+<b>ferry</b>\n   ferry\n\n
+<b>what time\'s the next &#8230; to Portsmouth?</b>\n   à quelle heure est le prochain &#8230; pour Portsmouth?\n\n
+<b>bus</b>\n   bus\n\n
+<b>train</b>\n   train\n\n
+<b>ferry</b>\n   ferry\n\n
+<b>this &#8230; has been cancelled</b>\n   ce &#8230; a été annulé\n\n
+<b>bus</b>\n   bus\n\n
+<b>train</b>\n   train\n\n
+<b>flight</b>\n   vol\n\n
+<b>ferry</b>\n   ferry\n\n
+<b>this &#8230; has been delayed</b>\n   ce &#8230; a été retardé\n\n
+<b>bus</b>\n   bus\n\n
+<b>train</b>\n   train\n\n
+<b>flight</b>\n   vol\n\n
+<b>ferry</b>\n   ferry\n\n
+<b>have you ever been to &#8230;?</b>\n   es-tu déjà allé en &#8230;?\n\n
+<b>Italy</b>\n   Italie\n\n
+<b>yes, I went there on holiday</b>\n   oui, j\'y suis allé(e) en vacances\n\n
+<b>no, I\'ve never been there</b>\n   non, je n\'y suis jamais allé(e)\n\n
+<b>I\'ve never been, but I\'d love to go someday</b>\n   Je n\'y suis jamais allé(e) mais j\'aimerais bien y aller un jour\n\n
+<b>how long does the journey take?</b>\n   combien de temps dure le voyage?\n\n
+<b>what time do we arrive?</b>\n   à quelle heure on arrive?\n\n
+<b>do you get travel sick?</b>\n   tu as le mal des transports?\n\n
+<b>have a good journey!</b>\n   bon voyage!\n\n
+<b>enjoy your trip!</b>\n   passe un bon séjour!\n\n
+<b>At the travel agents</b>\n   À l\'agence de voyages\n\n
+<b>I\'d like to travel to &#8230;</b>\n   j\'aimerais aller &#8230;\n\n
+<b>Spain</b>\n   en Espagne\n\n
+<b>I\'d like to book a trip to &#8230;</b>\n   j\'aimerais réserver un voyage à &#8230;\n\n
+<b>Berlin</b>\n   Berlin\n\n
+<b>how much are the flights?</b>\n   combien coûtent les vols?\n\n
+<b>do you have any brochures on &#8230;?</b>\n   Avez-vous/Auriez-vous des brochures sur &#8230;?\n\n
+<b>Switzerland</b>\n   la Suisse\n\n
+<b>do I need a visa for &#8230;?</b>\n   est-ce que j\'ai besoin d\'un visa pour aller &#8230;?\n\n
+<b>Turkey</b>\n   en Turquie\n\n
+</string>
+
+<string name="CAT14"><b>Direction</b></string>
+<string name="CAT14_content"><font size="18"><b>Direction</b></font>\n\n
+<b>excuse me, could you tell me how to get to &#8230;?</b>\n   excusez-moi, pourriez-vous me dire comment aller à &#8230;?\n\n
+<b>the bus station</b>\n   la gare routière\n\n
+<b>excuse me, do you know where the &#8230; is?</b>\n   excusez-moi, savez-vous où se trouve &#8230;?\n\n
+<b>post office</b>\n   le bureau de poste\n\n
+<b>I\'m sorry, I don\'t know</b>\n   je suis désolé(e), je ne sais pas\n\n
+<b>sorry, I\'m not from around here</b>\n   désolé(e), je ne suis pas d\'ici\n\n
+<b>I\'m looking for &#8230;</b>\n   je cherche &#8230;\n\n
+<b>I\'m looking for this address</b>\n   je cherche cette adresse\n\n
+<b>are we on the right road ?</b>\n   on est bien sur la bonne route ?\n\n
+<b>is this the right way for &#8230;?</b>\n   c\'est la bonne direction pour aller à &#8230;?\n\n
+<b>do you have a map?</b>\n   vous avez une carte?\n\n
+<b>can you show me on the map?</b>\n   vous pouvez me montrer sur la carte?\n\n
+<b>Giving directions</b>\n   Donner des directions\n\n
+<b>it\'s this way</b>\n   c\'est par ici\n\n
+<b>it\'s that way</b>\n   c\'est par là\n\n
+<b>you\'re going the wrong way</b>\n   vous êtes dans la mauvaise direction\n\n
+<b>you\'re going in the wrong direction</b>\n   vous êtes dans la mauvaise direction\n\n
+<b>take this road</b>\n   prenez cette route\n\n
+<b>go down there</b>\n   allez par là\n\n
+<b>take the first on the left</b>\n   prenez la première à gauche\n\n
+<b>take the second on the right</b>\n   prenez la deuxième à droite\n\n
+<b>turn right at the crossroads</b>\n   tournez à droite au carrefour\n\n
+<b>continue straight ahead for about a mile</b>\n   Continuez tout droit sur environ 1 mile (1 mile est approximativement 1,6 km)\n\n
+<b>continue past the fire station</b>\n   dépassez la caserne des pompiers\n\n
+<b>you\'ll pass a supermarket on your left</b>\n   vous allez dépasser un supermarché sur votre gauche\n\n
+<b>keep going for another &#8230;</b>\n   continuez encore sur &#8230;\n\n
+<b>hundred yards</b>\n   cent \'yards\' (environ 91 mètres)\n\n
+<b>two hundred metres</b>\n   deux cents mètres\n\n
+<b>half mile</b>\n   un demi-mile (environ 800 mètres)\n\n
+<b>kilometre</b>\n   un kilomètre\n\n
+<b>it\'ll be &#8230;</b>\n   ça sera &#8230;\n\n
+<b>on your left</b>\n   sur votre gauche\n\n
+<b>on your right</b>\n   sur votre droite\n\n
+<b>straight ahead of you</b>\n   droit devant vous\n\n
+<b>how far is it?</b>\n   c\'est à quelle distance?\n\n
+<b>how far is it to &#8230;?</b>\n   il y a combien de kilomètres jusqu\'à &#8230;?\n\n
+<b>the airport</b>\n   l\'aéroport\n\n
+<b>how far is it to &#8230; from here?</b>\n   quelle distance ça fait d\'ici à &#8230;?\n\n
+<b>the beach</b>\n   la plage\n\n
+<b>is it far?</b>\n   c\'est loin?\n\n
+<b>is it a long way?</b>\n   c\'est loin d\'ici?\n\n
+<b>it\'s not far</b>\n   ce n\'est pas loin\n\n
+<b>it\'s quite close</b>\n   c\'est assez proche\n\n
+<b>it\'s quite a long way</b>\n   c\'est assez loin d\'ici\n\n
+<b>it\'s a long way on foot</b>\n   ça fait une bonne marche\n\n
+<b>it\'s a long way to walk</b>\n   ça fait une bonne marche\n\n
+<b>it\'s about a mile from here</b>\n   c\'est à environ un mile d\'ici (1 mile est approximativement 1,6 km)\n\n
+<b>follow the signs for &#8230;</b>\n   suivez les panneaux pour &#8230;\n\n
+<b>the town centre</b>\n   le centre-ville\n\n
+<b>continue straight on past some traffic lights</b>\n   passez plusieurs feux et continuez tout droit\n\n
+<b>at the second set of traffic lights, turn left</b>\n   au deuxième feu, tournez à gauche\n\n
+<b>go over the roundabout</b>\n   prenez tout droit au rond-point\n\n
+<b>take the second exit at the roundabout</b>\n   prenez la deuxième sortie au rond-point\n\n
+<b>turn right at the T-junction</b>\n   tournez à droite à l\'intersection\n\n
+<b>go under the bridge</b>\n   passez sous le pont\n\n
+<b>go over the bridge</b>\n   passez sur le pont\n\n
+<b>you\'ll cross some railway lines</b>\n   vous allez traverser des voies ferrées\n\n
+</string>
+
+<string name="CAT15"><b>Taxi</b></string>
+<string name="CAT15_content"><font size="18"><b>Taxi</b></font>\n\n
+<b>do you know where I can get a taxi?</b>\n   vous savez où je peux trouver un taxi?\n\n
+<b>do you have a taxi number?</b>\n   tu connais un numéro de taxi?\n\n
+<b>I\'d like a taxi, please</b>\n   je voudrais un taxi s\'il vous plaît\n\n
+<b>sorry, there are none available at the moment</b>\n   Désolé(e), aucun n\'est disponible en ce moment\n\n
+<b>where are you?</b>\n   où êtes-vous?\n\n
+<b>what\'s the address?</b>\n   à quelle adresse êtes-vous?\n\n
+<b>I\'m at the Metropolitan Hotel</b>\n   je suis à l\'Hôtel Métropolitain\n\n
+<b>I\'m at the train station</b>\n   je suis à la gare\n\n
+<b>I\'m at the corner of Oxford Street and Tottenham Court Road</b>\n   je suis au coin d\'Oxford Street et de Tottenham Court Road\n\n
+<b>could I take your name, please?</b>\n   vous pourriez me donner votre nom, s\'il vous plaît?\n\n
+<b>how long will I have to wait?</b>\n   il y a combien de temps d\'attente?\n\n
+<b>how long will it be?</b>\n   le taxi sera là dans combien de temps?\n\n
+<b>quarter of an hour</b>\n   un quart d\'heure\n\n
+<b>about ten minutes</b>\n   environ dix minutes\n\n
+<b>it\'s on its way</b>\n   votre taxi arrive\n\n
+<b>In the taxi</b>\n   Dans le taxi\n\n
+<b>where would you like to go?</b>\n   où voulez-vous aller?\n\n
+<b>I\'d like to go to &#8230;</b>\n   je voudrais aller &#8230;\n\n
+<b>Charing Cross station</b>\n   à la gare de Charing Cross\n\n
+<b>could you take me to &#8230;?</b>\n   pourriez-vous m\'emmener à &#8230;?\n\n
+<b>the city centre</b>\n   le centre-ville\n\n
+<b>how much would it cost to &#8230;?</b>\n   ça coûterait combien pour &#8230;?\n\n
+<b>Heathrow Airport</b>\n   l\'aéroport d\'Heathrow\n\n
+<b>how much will it cost?</b>\n   combien va me coûter la course?\n\n
+<b>could we stop at a cashpoint?</b>\n   pourrions-nous nous arrêter à un distributeur?\n\n
+<b>is the meter switched on?</b>\n   est-ce que votre compteur est en marche?\n\n
+<b>please switch the meter on</b>\n   vous pourriez mettre en marche votre compteur, s\'il vous plaît?\n\n
+<b>how long will the journey take?</b>\n   combien de temps ça va prendre?\n\n
+<b>do you mind if I open the window?</b>\n   ça vous dérange si j\'ouvre la fenêtre?\n\n
+<b>do you mind if I close the window?</b>\n   ça vous dérange si je ferme la fenêtre?\n\n
+<b>are we almost there?</b>\n   on est bientôt arrivé?\n\n
+<b>how much is it?</b>\n   je vous dois combien?\n\n
+<b>have you got anything smaller?</b>\n   vous n\'avez pas de plus petites coupures?\n\n
+<b>that\'s fine, keep the change</b>\n   c\'est bon, gardez la monnaie\n\n
+<b>would you like a receipt?</b>\n   voudriez-vous un reçu?\n\n
+<b>could I have a receipt, please?</b>\n   vous pourriez me faire une facture, s\'il vous plaît?\n\n
+<b>could you pick me up here at &#8230;?</b>\n   vous pourriez passer me prendre ici à &#8230; ?\n\n
+<b>six o\'clock</b>\n   six heures\n\n
+<b>could you wait for me here?</b>\n   vous pouvez m\'attendre ici?\n\n
+<b>Taxis</b>\n   Taxis\n\n
+<b>For hire</b>\n   Taxi disponible\n\n
+</string>
+
+<string name="CAT16"><b>Bus, Train, Metro</b></string>
+<string name="CAT16_content"><font size="18"><b>Bus, Train, Metro</b></font>\n\n
+<b>where\'s the ticket office?</b>\n   où est le guichet?\n\n
+<b>where are the ticket machines?</b>\n   où sont les distributeurs automatiques?/où est la billetterie automatique?\n\n
+<b>what time\'s the next bus to &#8230;?</b>\n   à quelle heure est le prochain bus pour &#8230;?\n\n
+<b>what time\'s the next train to &#8230;?</b>\n   à quelle heure est le prochain train pour &#8230;?\n\n
+<b>can I buy a ticket on the bus?</b>\n   je peux acheter mon billet à bord du bus?\n\n
+<b>can I buy a ticket on the train?</b>\n   je peux acheter mon billet à bord du train?\n\n
+<b>how much is a &#8230; to London?</b>\n   combien coûte un &#8230; pour Londres?\n\n
+<b>single</b>\n   aller simple\n\n
+<b>return</b>\n   aller-retour\n\n
+<b>first class single</b>\n   aller simple en première classe\n\n
+<b>first class return</b>\n   aller-retour en première classe\n\n
+<b>I\'d like a &#8230; to Bristol</b>\n   je voudrais un &#8230; pour Bristol, s\'il vous plaît\n\n
+<b>single</b>\n   aller simple\n\n
+<b>return</b>\n   aller-retour\n\n
+<b>child single</b>\n   aller simple tarif enfant\n\n
+<b>child return</b>\n   aller-retour tarif enfant\n\n
+<b>senior citizens\' single</b>\n   aller simple avec la carte senior\n\n
+<b>senior citizens\' return</b>\n   aller-retour avec la carte senior\n\n
+<b>first class single</b>\n   aller simple en première classe\n\n
+<b>first class return</b>\n   aller-retour en première classe\n\n
+<b>are there any reductions for off-peak travel?</b>\n   est-ce qu\'il existe des réductions pour les périodes de faible affluence?\n\n
+<b>when would you like to travel?</b>\n   à quelle date vous souhaitez partir?\n\n
+<b>when will you be coming back?</b>\n   à quelle date vous revenez?\n\n
+<b>I\'d like a return to &#8230;, coming back on Sunday</b>\n   je voudrais un aller-retour pour&#8230;, avec retour le dimanche\n\n
+<b>which platform do I need for &#8230;?</b>\n   c\'est quel quai pour &#8230;?\n\n
+<b>is this the right platform for &#8230;?</b>\n   est-ce que je suis sur le bon quai pour &#8230;?\n\n
+<b>where do I change for &#8230;?</b>\n   où est la correspondance pour &#8230;?\n\n
+<b>you\'ll need to change at &#8230;</b>\n   vous aurez une correspondance à &#8230;\n\n
+<b>can I have a timetable, please?</b>\n   je pourrais avoir un horaire, s\'il vous plaît?\n\n
+<b>how often do the buses run to &#8230;?</b>\n   à quelle fréquence passent les bus pour &#8230;?\n\n
+<b>how often do the trains run to &#8230;?</b>\n   à quelle fréquence passent les trains pour &#8230;?\n\n
+<b>I\'d like to renew my season ticket, please</b>\n   j\'aimerais renouveler ma carte d\'abonnement, s\'il vous plaît\n\n
+<b>the next train to arrive at Platform 2 is the 16.35 to Doncaster</b>\n   le train qui entrera en gare quai numéro 2 est le train de 16h35 à destination de Doncaster\n\n
+<b>Platform 11 for the 10.22 to Guildford</b>\n   quai numéro 11 pour le train de 10h22 à destination de Guildford\n\n
+<b>the next train to depart from Platform 5 will be the 18.03 service to Penzance</b>\n   le prochain train à partir du quai numéro 5 sera le train de 18h03 à destination de Penzance.\n\n
+<b>the train\'s running late</b>\n   le train a du retard\n\n
+<b>the train\'s been cancelled</b>\n   le train a été supprimé\n\n
+<b>On the bus or train</b>\n   Dans le bus ou le train\n\n
+<b>does this bus stop at &#8230;?</b>\n   est-ce que ce bus s\'arrête à &#8230;?\n\n
+<b>does this train stop at &#8230;?</b>\n   est-ce que ce train s\'arrête à &#8230;?\n\n
+<b>could I put this in the hold, please?</b>\n   je pourrais mettre ça dans la soute, s\'il vous plaît?\n\n
+<b>could you tell me when we get to &#8230;?</b>\n   pourriez-vous me prévenir quand nous arriverons à &#8230;?\n\n
+<b>could you please stop at &#8230;?</b>\n   pourriez-vous, s\'il vous plaît, vous arrêter à &#8230;?\n\n
+<b>the airport</b>\n   l\'aéroport\n\n
+<b>is this seat free?</b>\n   est-ce que cette place est libre?\n\n
+<b>is this seat taken?</b>\n   est-ce que cette place est occupée?\n\n
+<b>do you mind if I sit here?</b>\n   est-ce que ça vous dérange si je m\'asseois ici?\n\n
+<b>tickets, please</b>\n   contrôle de billets, s\'il vous plaît\n\n
+<b>all tickets and railcards, please</b>\n   billets et cartes de réduction, s\'il vous plaît\n\n
+<b>could I see your ticket, please?</b>\n   je pourrais voir votre billet s\'il vous plaît?\n\n
+<b>I\'ve lost my ticket</b>\n   j\'ai perdu mon billet\n\n
+<b>what time do we arrive in &#8230;?</b>\n   à quelle heure arrive-t-on à &#8230;?\n\n
+<b>what\'s this stop?</b>\n   quel est le nom de cet arrêt?\n\n
+<b>what\'s the next stop?</b>\n   quel est le prochain arrêt?\n\n
+<b>this is my stop</b>\n   c\'est mon arrêt\n\n
+<b>I\'m getting off here</b>\n   je descends ici\n\n
+<b>is there a buffet car on the train?</b>\n   il y a une voiture-bar dans le train?\n\n
+<b>do you mind if I open the window?</b>\n   ça vous dérange si j\'ouvre la fenêtre?\n\n
+<b>we are now approaching London Kings Cross</b>\n   nous arrivons à London Kings Cross\n\n
+<b>this train terminates here</b>\n   terminus du train\n\n
+<b>all change, please</b>\n   veuillez descendre des voitures et rejoindre votre correspondance, s\'il vous plaît\n\n
+<b>please take all your luggage and personal belongings with you</b>\n   veuillez vérifier que vous n\'avez rien oublié (dans les voitures, pour le train)\n\n
+<b>could you tell me where the nearest Tube station is?</b>\n   vous pourriez m\'indiquer la station de métro la plus proche?\n\n
+<b>where\'s there a map of the Underground?</b>\n   où est-ce que je pourrais trouver un plan du métro?\n\n
+<b>over there</b>\n   là-bas\n\n
+<b>which line do I need for Camden Town?</b>\n   c\'est quelle ligne pour aller à Camden Town?\n\n
+<b>how many stops is it to &#8230;?</b>\n   combien d\'arrêts il y a jusqu\'à &#8230;\n\n
+<b>I\'d like a Day Travelcard, please</b>\n   je voudrais un pass pour la journée, s\'il vous plaît\n\n
+<b>which zones?</b>\n   pour quelles zones?\n\n
+<b>Tickets</b>\n   Billets\n\n
+<b>Platform</b>\n   Quai\n\n
+<b>Waiting room</b>\n   Salle d\'attente\n\n
+<b>Left luggage</b>\n   Bagages oubliés\n\n
+<b>Lost property</b>\n   Objets trouvés\n\n
+<b>Underground</b>\n   Métro\n\n
+<b>Bus stop</b>\n   arrêt de bus\n\n
+<b>Request stop</b>\n   arrêt facultatif\n\n
+<b>On time</b>\n   À l\'heure\n\n
+<b>Expected</b>\n   Attendu à &#8230;\n\n
+<b>Delayed</b>\n   Retardé\n\n
+<b>Cancelled</b>\n   Annulé\n\n
+<b>Calling at &#8230;</b>\n   Arrêts à &#8230;\n\n
+<b>Seat</b>\n   Siège\n\n
+<b>Car</b>\n   Voiture\n\n
+<b>Priority seat</b>\n   Siège prioritaires\n\n
+<b>To trains</b>\n   Accès aux trains\n\n
+<b>Trains to London</b>\n   Trains vers Londres\n\n
+<b>Way out</b>\n   Sortie\n\n
+<b>Mind the gap</b>\n   Attention à la marche\n\n
+<b>Northbound platform</b>\n   quai pour les rames allant vers le nord\n\n
+<b>Eastbound platform</b>\n   quai pour les rames allant vers l\'est\n\n
+<b>Southbound platform</b>\n   quai pour les rames allant vers le sud\n\n
+<b>Westbound platform</b>\n   quai pour les rames allant vers l\'ouest\n\n
+</string>
+
+<string name="CAT17"><b>En avion</b></string>
+<string name="CAT17_content"><font size="18"><b>En avion</b></font>\n\n
+<b>I booked on the internet</b>\n   j\'ai réservé sur l\'internet\n\n
+<b>do you have your booking reference?</b>\n   avez-vous votre numéro de réservation?\n\n
+<b>your passport and ticket, please</b>\n   votre passeport et votre ticket, s\'il vous plaît\n\n
+<b>here\'s my booking reference</b>\n   voici mon numéro de réservation\n\n
+<b>where are you flying to?</b>\n   où allez-vous?\n\n
+<b>has anyone had access to your bags in the meantime?</b>\n   est-ce que quelqu\'un d\'autre que vous a eu accès à vos bagages?\n\n
+<b>do you have any liquids or sharp objects in your hand baggage?</b>\n   avez-vous des liquides ou des objets tranchants dans votre bagage à main?\n\n
+<b>how many bags are you checking in?</b>\n   combien de valises avez-vous?\n\n
+<b>could I see your hand baggage, please?</b>\n   pourrais-je voir votre bagage à main s\'il vous plaît?\n\n
+<b>do I need to check this in or can I take it with me?</b>\n   est-ce que je dois enregistrer ça ou est-ce que je peux le garder avec moi?\n\n
+<b>you\'ll need to check that in</b>\n   vous devez l\'enregistrer\n\n
+<b>there\'s an excess baggage charge of &#8230;</b>\n   vous devez payer un excédent de bagages de &#8230;\n\n
+<b>enjoy your flight!</b>\n   bon voyage!\n\n
+<b>are you carrying any liquids?</b>\n   avez-vous des liquides dans vos bagages?\n\n
+<b>I booked on the internet</b>\n   j\'ai réservé sur l\'internet\n\n
+<b>do you have your booking reference?</b>\n   avez-vous votre numéro de réservation?\n\n
+<b>your passport and ticket, please</b>\n   votre passeport et votre ticket, s\'il vous plaît\n\n
+<b>here\'s my booking reference</b>\n   voici mon numéro de réservation\n\n
+<b>where are you flying to?</b>\n   où allez-vous?\n\n
+<b>has anyone had access to your bags in the meantime?</b>\n   est-ce que quelqu\'un d\'autre que vous a eu accès à vos bagages?\n\n
+<b>do you have any liquids or sharp objects in your hand baggage?</b>\n   avez-vous des liquides ou des objets tranchants dans votre bagage à main?\n\n
+<b>how many bags are you checking in?</b>\n   combien de valises avez-vous?\n\n
+<b>could I see your hand baggage, please?</b>\n   pourrais-je voir votre bagage à main s\'il vous plaît?\n\n
+<b>do I need to check this in or can I take it with me?</b>\n   est-ce que je dois enregistrer ça ou est-ce que je peux le garder avec moi?\n\n
+<b>you\'ll need to check that in</b>\n   vous devez l\'enregistrer\n\n
+<b>there\'s an excess baggage charge of &#8230;</b>\n   vous devez payer un excédent de bagages de &#8230;\n\n
+<b>enjoy your flight!</b>\n   bon voyage!\n\n
+<b>are you carrying any liquids?</b>\n   avez-vous des liquides dans vos bagages?\n\n
+<b>could you take off your coat</b>\n   pourriez-vous enlever votre manteau\n\n
+<b>could you take off your shoes</b>\n   pourriez-vous enlever vos chaussures\n\n
+<b>could you take off your belt</b>\n   pourriez-vous enlever votre ceinture\n\n
+<b>could you put any metallic objects into the tray, please?</b>\n   vous pourriez mettre tous vos objets métalliques sur ce plateau, s\'il vous plaît?\n\n
+<b>please empty your pockets</b>\n   veuillez vider vos poches\n\n
+<b>please take your laptop out of its case</b>\n   vous pourriez sortir votre ordinateur de sa housse, s\'il vous plaît?\n\n
+<b>I\'m afraid you can\'t take that through</b>\n   je suis désolé, vous ne pouvez pas prendre ça\n\n
+<b>what\'s the flight number?</b>\n   quel est le numéro de ce vol?\n\n
+<b>which gate do we need?</b>\n   à quelle porte d\'embarquement doit-on aller?\n\n
+<b>last call for passenger Smith travelling to Miami, please proceed immediately to Gate number 32</b>\n   vol à destination de Miami, dernier appel pour le passager Smith. Veuillez vous rendre immédiatement à la porte d\'embarquement numéro 32, s\'il vous plaît\n\n
+<b>the flight\'s been delayed</b>\n   le vol a été retardé\n\n
+<b>the flight\'s been cancelled</b>\n   le vol a été annulé\n\n
+<b>we\'d like to apologise for the delay</b>\n   veuillez nous excuser pour ce retard\n\n
+<b>could I see your passport and boarding card, please?</b>\n   je pourrais voir votre passeport et votre carte d\'embarquement s\'il vous plaît?\n\n
+<b>what\'s your seat number?</b>\n   quel est le numéro de votre place?\n\n
+<b>could you please put that in the overhead locker?</b>\n   vous pourriez mettre ça dans le compartiment bagage s\'il vous plaît?\n\n
+<b>please pay attention to this short safety demonstration</b>\n   veuillez s\'il vous plaît regarder attentivement la démonstration des consignes de sécurité\n\n
+<b>please turn off all mobile phones and electronic devices</b>\n   veuillez s\'il vous plaît éteindre vos téléphones portables et tout objet électronique\n\n
+<b>the captain has turned off the Fasten Seatbelt sign</b>\n   vous pouvez maintenant défaire votre ceinture\n\n
+<b>how long does the flight take?</b>\n   combien de temps dure ce vol?\n\n
+<b>would you like any food or refreshments?</b>\n   vous désirez un rafraîchissement ou quelque chose à manger?\n\n
+<b>the captain has switched on the Fasten Seatbelt sign</b>\n   veuillez boucler votre ceinture, s\'il vous plaît (littéralement: le commandant de bord a allumé le voyant « ceinture bouclée »)\n\n
+<b>we\'ll be landing in about fifteen minutes</b>\n   nous atterrirons dans environ quinze minutes\n\n
+<b>please fasten your seatbelt and return your seat to the upright position</b>\n   veuillez s\'il vous plaît boucler votre ceinture et redresser votre siège\n\n
+<b>please stay in your seat until the aircraft has come to a complete standstill and the Fasten Seatbelt sign has been switched off</b>\n   veuillez s\'il vous plaît rester assis jusqu\'à l\'arrêt complet de l\'appareil et jusqu\'à ce que le voyant « ceinture » s\'éteigne.\n\n
+<b>the local time is &#8230;</b>\n   il est &#8230; heure locale\n\n
+<b>Short stay</b>\n   Parking de courte durée\n\n
+<b>Long stay</b>\n   Parking de longue durée\n\n
+<b>Arrivals</b>\n   Arrivées\n\n
+<b>Departures</b>\n   Départs\n\n
+<b>International check-in</b>\n   Enregistrement des bagages vers l\'international\n\n
+<b>International departures</b>\n   Départs internationaux\n\n
+<b>Domestic flights</b>\n   Vols intérieurs\n\n
+<b>Toilets</b>\n   Toilettes\n\n
+<b>Information</b>\n   Informations\n\n
+<b>Ticket offices</b>\n   Guichets\n\n
+<b>Lockers</b>\n   Consignes\n\n
+<b>Payphones</b>\n   Téléphones payants\n\n
+<b>Restaurant</b>\n   Restaurant\n\n
+<b>Check-in closes 40 minutes before departure</b>\n   Fermeture de l\'enregistrement 40 minutes avant le départ\n\n
+<b>Gates 1-32</b>\n   Portes 1 - 32\n\n
+<b>Tax free shopping</b>\n   Espace shopping duty free (détaxé)\n\n
+<b>Duty free shopping</b>\n   Espace shopping duty free (détaxé)\n\n
+<b>Transfers</b>\n   Correspondances\n\n
+<b>Flight connections</b>\n   Correspondances\n\n
+<b>Baggage reclaim</b>\n   Réclamation des bagages\n\n
+<b>Passport control</b>\n   Contrôle des papiers\n\n
+<b>Customs</b>\n   Douane\n\n
+<b>Taxis</b>\n   Taxis\n\n
+<b>Car hire</b>\n   Location de voiture\n\n
+<b>Departures board</b>\n   Tableau des départs\n\n
+<b>Check-in open</b>\n   Enregistrement ouvert\n\n
+<b>Go to Gate &#8230;</b>\n   Allez porte &#8230;\n\n
+<b>Delayed</b>\n   Retardé\n\n
+<b>Cancelled</b>\n   Annulé\n\n
+<b>Now boarding</b>\n   Embarquement ouvert\n\n
+<b>Last call</b>\n   Dernier appel\n\n
+<b>Gate closing</b>\n   Fermeture de la porte d\'embarquement\n\n
+<b>Gate closed</b>\n   Porte d\'embarquement fermée\n\n
+<b>Departed</b>\n   A décollé\n\n
+<b>Arrivals board</b>\n   Tableau des arrivées\n\n
+<b>Expected 23:25</b>\n   Attendu à 23h25\n\n
+<b>Landed 09:52</b>\n   Arrivé à 09h52\n\n
+</string>
+
+<string name="CAT18"><b>Douanes</b></string>
+<string name="CAT18_content"><font size="18"><b>Douanes</b></font>\n\n
+<b>could I see your passport, please?</b>\n   je pourrais voir votre passeport s\'il vous plaît?\n\n
+<b>where have you travelled from?</b>\n   vous arrivez d\'où?\n\n
+<b>what\'s the purpose of your visit?</b>\n   quel est le motif de votre voyage?\n\n
+<b>I\'m on holiday</b>\n   je suis en vacances\n\n
+<b>I\'m on business</b>\n   je suis en voyage d\'affaires\n\n
+<b>I\'m visiting relatives</b>\n   je rends visite à de la famille\n\n
+<b>how long will you be staying?</b>\n   combien de temps allez-vous rester?\n\n
+<b>where will you be staying?</b>\n   où allez-vous loger pendant la durée de votre séjour?\n\n
+<b>you have to fill in this &#8230;</b>\n   vous devez remplir ce &#8230;\n\n
+<b>landing card</b>\n   formulaire d\'entrée sur le territoire\n\n
+<b>immigration form</b>\n   formulaire du bureau de l\'immigration\n\n
+<b>enjoy your stay!</b>\n   bon séjour!\n\n
+<b>could you open your bag, please?</b>\n   vous pourriez ouvrir votre sac, s\'il vous plaît?\n\n
+<b>do you have anything to declare?</b>\n   vous avez quelque chose à déclarer?\n\n
+<b>you have to pay duty on these items</b>\n   vous devez payer une taxe sur ces articles\n\n
+<b>citizens</b>\n   Citoyens\n\n
+<b>All passports</b>\n   Tous passeports\n\n
+<b>Wait behind the yellow line</b>\n   Attendez derrière la ligne jaune\n\n
+<b>Please have your passport ready</b>\n   Veuillez préparer votre passeport, s\'il vous plaît\n\n
+<b>Nothing to declare</b>\n   Rien à déclarer\n\n
+<b>Goods to declare</b>\n   Biens à déclarer\n\n
+</string>
+
+<string name="CAT19"><b>Réservation d\'hôtel</b></string>
+<string name="CAT19_content"><font size="18"><b>Réservation d\'hôtel</b></font>\n\n
+<b>can you recommend any good &#8230;?</b>\n   vous pouvez me recommander de bons &#8230;?\n\n
+<b>B and Bs (abréviation de bed and breakfasts)</b>\n   chambres d\'hôtes (petits hôtels à bas prix qui offrent le petit déjeuner)\n\n
+<b>self-catering apartments</b>\n   appartements avec cuisine indépendante\n\n
+<b>I\'d like to stay in the city centre</b>\n   je voudrais loger dans le centre-ville\n\n
+<b>how much do you want to pay?</b>\n   combien voulez-vous mettre?\n\n
+<b>how far is it from the city centre</b>\n   à quelle distance ça se trouvedu centre-ville\n\n
+<b>how far is it from the airport</b>\n   à quelle distance ça se trouvede l\'aéroport\n\n
+<b>how far is it from the railway station</b>\n   à quelle distance ça se trouvede la gare\n\n
+<b>do you have any vacancies?</b>\n   vous avez des chambres?\n\n
+<b>from what date?</b>\n   à partir de quelle date?\n\n
+<b>for how many nights?</b>\n   pour combien de nuits?\n\n
+<b>how long will you be staying for?</b>\n   combien de temps allez-vous rester?\n\n
+<b>one night</b>\n   une nuit\n\n
+<b>two nights</b>\n   deux nuits\n\n
+<b>a week</b>\n   une semaine\n\n
+<b>a fortnight (anglais américain: two weeks)</b>\n   quinze jours\n\n
+<b>what sort of room would you like?</b>\n   quel genre de chambre voulez-vous réserver?\n\n
+<b>I\'d like a &#8230;</b>\n   je voudrais une &#8230;\n\n
+<b>single room</b>\n   chambre simple\n\n
+<b>double room</b>\n   chambre double avec un lit deux personnes\n\n
+<b>twin room</b>\n   chambre double avec lits jumeaux\n\n
+<b>triple room</b>\n   chambre pour trois personnes\n\n
+<b>suite</b>\n   suite\n\n
+<b>I\'d like a room with an en-suite bathroom</b>\n   je voudrais une chambre avecsalle de bain privée\n\n
+<b>I\'d like a room with a bath</b>\n   je voudrais une chambre avecbaignoire\n\n
+<b>I\'d like a room with a shower</b>\n   je voudrais une chambre avecdouche\n\n
+<b>I\'d like a room with a view</b>\n   je voudrais une chambre avecvue\n\n
+<b>I\'d like a room with a sea view</b>\n   je voudrais une chambre avecvue sur la mer\n\n
+<b>I\'d like a room with a balcony</b>\n   balcon\n\n
+<b>could we have an extra bed?</b>\n   on pourrait avoir un lit supplémentaire?\n\n
+<b>does the room have &#8230;?</b>\n   est-ce qu\'il y a &#8230; dans la chambre?\n\n
+<b>internet access</b>\n   accès à l\'internet\n\n
+<b>air conditioning</b>\n   l\'air conditionné\n\n
+<b>television</b>\n   la télévision\n\n
+<b>is there a &#8230;?</b>\n   est-ce qu\'il y a &#8230;?\n\n
+<b>swimming pool</b>\n   une piscine\n\n
+<b>sauna</b>\n   un sauna\n\n
+<b>gym</b>\n   une salle de sports\n\n
+<b>beauty salon</b>\n   un salon de beauté\n\n
+<b>lift</b>\n   un ascenseur\n\n
+<b>do you have wheelchair access?</b>\n   vous avez un accès pour fauteuils roulants?\n\n
+<b>do you have a car park?</b>\n   vous avez un parking?\n\n
+<b>the room has a shared bathroom</b>\n   on partage la salle de bains avec une autre chambre\n\n
+<b>what\'s the price per night?</b>\n   quel est le prix d\'une nuit?\n\n
+<b>is breakfast included?</b>\n   est-ce que le petit déjeuner est inclus?\n\n
+<b>that\'s a bit more than I wanted to pay</b>\n   c\'est un peu au-dessus de mes prix\n\n
+<b>can you offer me any discount?</b>\n   vous pourriez me faire un prix?\n\n
+<b>have you got anything &#8230;?</b>\n   vous n\'auriez rien de &#8230;?\n\n
+<b>cheaper</b>\n   moins cher\n\n
+<b>bigger</b>\n   plus grand\n\n
+<b>quieter</b>\n   moins bruyant\n\n
+<b>could I see the room?</b>\n   est-ce que je pourrais voir la chambre?\n\n
+<b>OK, I\'ll take it</b>\n   D\'accord, je la prends (la chambre) / je le prends (l\'appartement)\n\n
+<b>I\'d like to make a reservation</b>\n   je voudrais faire une réservation\n\n
+<b>what\'s your name, please?</b>\n   quel est votre nom s\'il vous plaît?\n\n
+<b>could I take your name?</b>\n   puis-je prendre votre nom?\n\n
+<b>can I take your &#8230;?</b>\n   est-ce que je peux prendre votre &#8230;?\n\n
+<b>credit card number</b>\n   numéro de carte de crédit\n\n
+<b>telephone number</b>\n   numéro de téléphone\n\n
+<b>what time will you be arriving?</b>\n   vers quelle heure comptez-vous arriver?\n\n
+<b>Vacancies</b>\n   chambres libres\n\n
+<b>No vacancies</b>\n   complet\n\n
+</string>
+
+<string name="CAT20"><b>À l\'hôtel</b></string>
+<string name="CAT20_content"><font size="18"><b>À l\'hôtel</b></font>\n\n
+<b>I\'ve got a reservation</b>\n   j\'ai une réservation\n\n
+<b>your name, please?</b>\n   votre nom, s\'il vous plaît?\n\n
+<b>my name\'s &#8230;</b>\n   mon nom est &#8230;\n\n
+<b>could I see your passport?</b>\n   je pourrais voir votre passeport?\n\n
+<b>could you please fill in this registration form?</b>\n   vous pourriez remplir ce formulaire d\'enregistrement, s\'il vous plaît?\n\n
+<b>my booking was for a twin room</b>\n   j\'avais réservé une chambre avec des lits jumeaux\n\n
+<b>my booking was for a double room</b>\n   j\'avais réservé une chambre avec un grand lit\n\n
+<b>would you like a newspaper?</b>\n   voulez-vous le journal?\n\n
+<b>would you like a wake-up call?</b>\n   souhaitez-vous que l\'on vous réveille par téléphone?\n\n
+<b>what time\'s breakfast?</b>\n   à quelle heure est le petit déjeuner?\n\n
+<b>breakfast\'s from 7am till 10am</b>\n   le petit déjeuner est servi de 7h à 10h\n\n
+<b>could I have breakfast in my room, please?</b>\n   je pourrais prendre le petit déjeuner dans ma chambre, s\'il vous plaît?\n\n
+<b>what time\'s the restaurant open for dinner?</b>\n   le restaurant ouvre à quelle heure pour le dîner?\n\n
+<b>dinner\'s served between 6pm and 9.30pm</b>\n   le dîner est servi de 18h à 21h30\n\n
+<b>what time does the bar close?</b>\n   à quelle heure ferme le bar?\n\n
+<b>would you like any help with your luggage?</b>\n   voulez-vous de l\'aide pour vos bagages?\n\n
+<b>here\'s your room key</b>\n   voici la clé de votre chambre\n\n
+<b>your room number\'s &#8230;</b>\n   votre numéro de chambre est le &#8230;\n\n
+<b>your room\'s on the &#8230; floor</b>\n   votre chambre est au &#8230; étage\n\n
+<b>first</b>\n   premier\n\n
+<b>second</b>\n   deuxième\n\n
+<b>third</b>\n   troisième\n\n
+<b>where are the lifts?</b>\n   où est l\'ascenseur?\n\n
+<b>enjoy your stay!</b>\n   passez un bon séjour!\n\n
+<b>Reception</b>\n   Réception\n\n
+<b>Concierge</b>\n   Concierge\n\n
+<b>Lifts</b>\n   Ascenseurs\n\n
+<b>Bar</b>\n   Bar\n\n
+<b>Restaurant</b>\n   Restaurant\n\n
+</string>
+
+<string name="CAT21"><b>Séjour à l\'hôtel</b></string>
+<string name="CAT21_content"><font size="18"><b>Séjour à l\'hôtel</b></font>\n\n
+<b>my room number\'s &#8230;</b>\n   je suis dans la chambre numéro &#8230;\n\n
+<b>could I have a wake-up call at seven o\'clock?</b>\n   pourriez-vous me réveiller à 7 heures?\n\n
+<b>where do we have breakfast?</b>\n   où prend-on le petit déjeuner?\n\n
+<b>where\'s the restaurant?</b>\n   où est le restaurant?\n\n
+<b>could you please call me a taxi?</b>\n   vous pourriez m\'appeler un taxi, s\'il vous plaît?\n\n
+<b>do you lock the front door at night?</b>\n   est-ce que la porte d\'entrée reste ouverte toute la nuit?\n\n
+<b>if you come back after midnight, you\'ll need to ring the bell</b>\n   si vous rentrez après minuit vous devrez sonner\n\n
+<b>I\'ll be back around ten o\'clock</b>\n   je reviendrai vers 22h\n\n
+<b>could I see your key, please?</b>\n   je pourrais voir votre clé, s\'il vous plaît?\n\n
+<b>are there any laundry facilities?</b>\n   vous avez une buanderie?\n\n
+<b>what time do I need to check out?</b>\n   à quelle heure est-ce que je dois libérer la chambre?\n\n
+<b>would it be possible to have a late check-out?</b>\n   il serait possible de quitter l\'hôtel un peu plus tard?\n\n
+<b>the key doesn\'t work</b>\n   la clé ne fonctionne pas\n\n
+<b>there isn\'t any hot water</b>\n   il n\'y a pas d\'eau chaude\n\n
+<b>the room\'s too hot</b>\n   il fait trop chaud dans ma chambre\n\n
+<b>the room\'s too cold</b>\n   il fait trop froid dans ma chambre\n\n
+<b>the room\'s too noisy</b>\n   ma chambre est trop bruyante\n\n
+<b>the heating doesn\'t work</b>\n   le chauffage ne fonctionne pas\n\n
+<b>the shower doesn\'t work</b>\n   la douche ne fonctionne pas\n\n
+<b>the television doesn\'t work</b>\n   la télévision ne fonctionne pas\n\n
+<b>one of the lights isn\'t working</b>\n   une des lampes ne s\'allume pas\n\n
+<b>there\'s no toilet paper</b>\n   papier toilette\n\n
+<b>there\'s no soap</b>\n   il n\'y a pas de savon\n\n
+<b>there\'s no shampoo</b>\n   il n\'y a pas de shampooing\n\n
+<b>could I have a towel, please?</b>\n   je pourrais avoir une serviette de toilette, s\'il vous plaît?\n\n
+<b>could I have an extra blanket?</b>\n   je pourrais avoir une couverture supplémentaire?\n\n
+<b>my room\'s not been made up</b>\n   ma chambre n\'a pas été faite\n\n
+<b>could you please change the sheets?</b>\n   vous pourriez changer les draps, s\'il vous plaît?\n\n
+<b>I\'ve lost my room key</b>\n   j\'ai perdu la clé de ma chambre\n\n
+<b>Do not disturb</b>\n   Ne pas déranger\n\n
+<b>Please make up room</b>\n   Veuillez faire ma chambre s\'il vous plaît\n\n
+<b>Lift out of order</b>\n   Ascenseur en panne\n\n
+</string>
+
+<string name="CAT22"><b>Départ de l\'hôtel</b></string>
+<string name="CAT22_content"><font size="18"><b>Départ de l\'hôtel</b></font>\n\n
+<b>I\'d like to check out</b>\n   je voudrais quitter l\'hôtel\n\n
+<b>I\'d like to pay my bill, please</b>\n   je voudrais régler ma note, s\'il vous plaît\n\n
+<b>I think there\'s a mistake in this bill</b>\n   je pense qu\'il y a une erreur sur la note\n\n
+<b>how would you like to pay?</b>\n   comment voulez-vous payer?\n\n
+<b>I\'ll pay by credit card</b>\n   je paie par carte de crédit\n\n
+<b>I\'ll pay in cash</b>\n   je paie en espèces\n\n
+<b>have you used the minibar?</b>\n   avez-vous utilisé le mini-bar?\n\n
+<b>we haven\'t used the minibar</b>\n   nous n\'avons pas utilisé le mini-bar\n\n
+<b>could we have some help bringing our luggage down?</b>\n   vous pourriez nous aider à descendre nos bagages?\n\n
+<b>do you have anywhere we could leave our luggage?</b>\n   vous avez un endroit où on pourrait laisser nos bagages?\n\n
+<b>could I have a receipt, please?</b>\n   je pourrais avoir un reçu, s\'il vous plaît?\n\n
+<b>could you please call me a taxi?</b>\n   vous pourriez m\'appeler un taxi, s\'il vous plaît?\n\n
+<b>I hope you had an enjoyable stay</b>\n   j\'espère que vous avez passé un bon séjour\n\n
+<b>I\'ve really enjoyed my stay</b>\n   j\'ai passé un très bon séjour\n\n
+<b>we\'ve really enjoyed our stay</b>\n   on a passé un très bon séjour\n\n
+</string>
+
+<string name="CAT23"><b>Pub, café</b></string>
+<string name="CAT23_content"><font size="18"><b>Pub, café</b></font>\n\n
+<b>what would you like to drink?</b>\n   qu\'est-ce que vous prenez? ; qu\'est-ce que tu prends?\n\n
+<b>what are you having?</b>\n   qu\'est-ce que tu veux boire?\n\n
+<b>what can I get you?</b>\n   qu\'est-ce que je vous sers? ; qu\'est-ce que je peux t\'offrir?\n\n
+<b>I\'ll have &#8230;, please</b>\n   je vais prendre &#8230;, s\'il vous plaît\n\n
+<b>a glass of white wine</b>\n   un verre de vin blanc\n\n
+<b>a glass of red wine</b>\n   un verre de vin rouge\n\n
+<b>an orange juice</b>\n   un verre de jus d\'orange\n\n
+<b>a coffee</b>\n   un café\n\n
+<b>a Coke</b>\n   un Coca\n\n
+<b>a Diet Coke</b>\n   un Coca light\n\n
+<b>large or small?</b>\n   grand ou petit?\n\n
+<b>would you like ice with that?</b>\n   avec des glaçons?\n\n
+<b>no ice, please</b>\n   pas de glaçons, s\'il vous plaît\n\n
+<b>a little, please</b>\n   un peu, s\'il vous plaît\n\n
+<b>lots of ice, please</b>\n   plein de glaçons, s\'il vous plaît\n\n
+<b>a beer, please</b>\n   une bière, s\'il vous plaît\n\n
+<b>two beers, please</b>\n   deux bières, s\'il vous plaît\n\n
+<b>three shots of tequila, please</b>\n   trois petits verres de tequila, s\'il vous plaît\n\n
+<b>are you being served?</b>\n   on s\'occupe de vous?\n\n
+<b>I\'m being served, thanks</b>\n   on a déjà pris ma commande, merci\n\n
+<b>who\'s next?</b>\n   c\'est au tour de qui?\n\n
+<b>which wine would you like?</b>\n   quel vin allez-vous prendre?\n\n
+<b>house wine is fine</b>\n   la cuvée du patron\n\n
+<b>which beer would you like?</b>\n   quelle bière vous voulez?\n\n
+<b>would you like draught or bottled beer?</b>\n   vous voulez une bière pression ou bouteille?\n\n
+<b>I\'ll have the same, please</b>\n   je prendrai la même chose, s\'il vous plaît\n\n
+<b>nothing for me, thanks</b>\n   rien pour moi, merci\n\n
+<b>I\'ll get these</b>\n   c\'est pour moi\n\n
+<b>keep the change!</b>\n   gardez la monnaie!\n\n
+<b>cheers!</b>\n   à ta/votre santé!\n\n
+<b>whose round is it?</b>\n   c\'est à qui la prochaine tournée?\n\n
+<b>it\'s my round</b>\n   c\'est ma tournée\n\n
+<b>it\'s your round</b>\n   c\'est ta tournée\n\n
+<b>another beer, please</b>\n   une autre bière, s\'il vous plaît\n\n
+<b>another two beers, please</b>\n   deux autres bières, s\'il vous plaît\n\n
+<b>same again, please</b>\n   la même chose, s\'il vous plaît\n\n
+<b>are you still serving drinks?</b>\n   vous servez encore à boire?\n\n
+<b>last orders!</b>\n   dernières commandes!\n\n
+<b>do you serve food?</b>\n   vous servez à manger?\n\n
+<b>are you still serving food?</b>\n   vous servez encore à manger?\n\n
+<b>a packet of crisps, please</b>\n   un paquet de chips, s\'il vous plaît\n\n
+<b>what flavour would you like?</b>\n   lesquelles voulez-vous? \n\n
+<b>ready salted</b>\n   salées\n\n
+<b>cheese and onion</b>\n   fromage et ognion\n\n
+<b>salt and vinegar</b>\n   au vinaigre et salées\n\n
+<b>what sort of sandwiches do you have?</b>\n   qu\'est-ce que vous faites comme sandwichs?\n\n
+<b>do you have any hot food?</b>\n   vous avez des plats chauds?\n\n
+<b>today\'s specials are on the board</b>\n   les plats du jour sont inscrits sur le tableau\n\n
+<b>is it table service or self-service?</b>\n   les serveurs viennent prendre la commande ou on doit aller commander au bar?\n\n
+<b>what can I get you?</b>\n   vous désirez?\n\n
+<b>would you like anything to eat?</b>\n   vous désirez manger quelque chose?\n\n
+<b>could we see a menu, please?</b>\n   on pourrait avoir le menu, s\'il vous plaît?\n\n
+<b>eat in or take-away?</b>\n   à manger sur place ou à emporter?\n\n
+<b>pool</b>\n   billard\n\n
+<b>darts</b>\n   fléchettes\n\n
+<b>cards</b>\n   cartes\n\n
+<b>Internet access</b>\n   Accès à l\'internet\n\n
+<b>do you have internet access here?</b>\n   est-ce qu\'on a accès à l\'internet ici?\n\n
+<b>do you have wireless internet here?</b>\n   est-ce qu\'on a accès au wifi ici?\n\n
+<b>what’s the password for the internet?</b>\n   quel est le mot de passe pour l\'internet?\n\n
+<b>do you smoke?</b>\n   tu fumes?, vous fumez?\n\n
+<b>no, I don\'t smoke</b>\n   non, je ne fume pas\n\n
+<b>I\'ve given up</b>\n   j\'ai arrêté\n\n
+<b>do you mind if I smoke?</b>\n   ça te dérange si je fume?\n\n
+<b>would you like a cigarette?</b>\n   tu veux une cigarette?\n\n
+<b>have you got a light?</b>\n   tu as du feu?\n\n
+</string>
+
+<string name="CAT24"><b>Restaurant</b></string>
+<string name="CAT24_content"><font size="18"><b>Restaurant</b></font>\n\n
+<b>do you have any free tables?</b>\n   vous avez des tables de libre?\n\n
+<b>a table for &#8230;, please</b>\n   une table pour &#8230;, s\'il vous plaît\n\n
+<b>two</b>\n   deux\n\n
+<b>three</b>\n   trois\n\n
+<b>four</b>\n   quatre\n\n
+<b>I\'d like to make a reservation</b>\n   je voudrais faire une réservation\n\n
+<b>I\'d like to book a table, please</b>\n   je voudrais réserver une table, s\'il vous plaît\n\n
+<b>when for?</b>\n   à quelle date?\n\n
+<b>for what time?</b>\n   pour quelle heure?\n\n
+<b>this evening at &#8230;</b>\n   pour ce soir vers &#8230;\n\n
+<b>seven o\'clock</b>\n   dix-neuf heures\n\n
+<b>seven thirty</b>\n   dix-neuf heures trente\n\n
+<b>eight o\'clock</b>\n   vingt heures\n\n
+<b>eight thirty</b>\n   vingt heures trente\n\n
+<b>tomorrow at &#8230;</b>\n   pour demain vers &#8230;\n\n
+<b>noon</b>\n   midi\n\n
+<b>twelve thirty</b>\n   midi et demi\n\n
+<b>one o\'clock</b>\n   une heure\n\n
+<b>one thirty</b>\n   une heure et demie\n\n
+<b>for how many people?</b>\n   c\'est pour combien de personnes?\n\n
+<b>I\'ve got a reservation</b>\n   j\'ai une réservation\n\n
+<b>do you have a reservation?</b>\n   vous avez réservé?\n\n
+<b>could I see the menu, please?</b>\n   je pourrais voir le menu, s\'il vous plaît?\n\n
+<b>could I see the wine list, please?</b>\n   je pourrais voir la carte des vins, s\'il vous plaît?\n\n
+<b>can I get you any drinks?</b>\n   vous voulez boire quelque chose?\n\n
+<b>are you ready to order?</b>\n   vous avez choisi?\n\n
+<b>do you have any specials?</b>\n   vous avez des plats du jour?\n\n
+<b>what\'s the soup of the day?</b>\n   quelle est la soupe du jour?\n\n
+<b>what do you recommend?</b>\n   qu\'est-ce que vous nous conseillez?\n\n
+<b>what\'s this dish?</b>\n   ce plat, qu\'est-ce que c\'est?\n\n
+<b>I\'m on a diet</b>\n   je suis au régime\n\n
+<b>I\'m allergic to &#8230;</b>\n   je suis allergique &#8230;\n\n
+<b>wheat</b>\n   au blé\n\n
+<b>dairy products</b>\n   aux produits laitiers\n\n
+<b>I\'m severely allergic to &#8230;</b>\n   je suis gravement allergique &#8230;\n\n
+<b>nuts</b>\n   aux fruits à coque\n\n
+<b>shellfish</b>\n   aux coquillages\n\n
+<b>I\'m a vegetarian</b>\n   je suis végétarien(ne)\n\n
+<b>I don\'t eat &#8230;</b>\n   je ne mange pas de &#8230;\n\n
+<b>meat</b>\n   viande\n\n
+<b>pork</b>\n   porc\n\n
+<b>I\'ll have the &#8230;</b>\n   je vais prendre &#8230;\n\n
+<b>chicken breast</b>\n   du blanc de poulet\n\n
+<b>roast beef</b>\n   du rosbif\n\n
+<b>pasta</b>\n   des pâtes\n\n
+<b>I\'ll take this</b>\n   je vais prendre ça\n\n
+<b>I\'m sorry, we\'re out of that</b>\n   je suis désolé(e), nous n\'en avons plus\n\n
+<b>well done</b>\n   bien cuit\n\n
+<b>is that all?</b>\n   ce sera tout?\n\n
+<b>would you like anything else?</b>\n   vous désirez autre chose?\n\n
+<b>nothing else, thank you</b>\n   rien d\'autre, merci\n\n
+<b>we\'re in a hurry</b>\n   on est pressé\n\n
+<b>how long will it take?</b>\n   combien de temps ça va prendre?\n\n
+<b>it\'ll take about twenty minutes</b>\n   ça va prendre environ 20 minutes\n\n
+<b>enjoy your meal!</b>\n   bon appétit!\n\n
+<b>would you like to taste the wine?</b>\n   désirez-vous goûter le vin?\n\n
+<b>could we have &#8230;?</b>\n   est-ce qu\'on pourrait avoir &#8230;?\n\n
+<b>another bottle of wine</b>\n   une autre bouteille de vin\n\n
+<b>some more bread</b>\n   encore un peu de pain\n\n
+<b>some more milk</b>\n   un peu plus de lait\n\n
+<b>a jug of tap water</b>\n   une carafe d\'eau\n\n
+<b>some water</b>\n   de l\'eau\n\n
+<b>still or sparkling?</b>\n   plate ou pétillante/gazeuse?\n\n
+<b>would you like any coffee or dessert?</b>\n   vous désirez un café, un dessert?\n\n
+<b>do you have any desserts?</b>\n   vous avez des desserts?\n\n
+<b>could I see the dessert menu?</b>\n   je pourrais voir la liste des desserts?\n\n
+<b>was everything alright?</b>\n   ça vous a plu?\n\n
+<b>thanks, that was delicious</b>\n   merci, c\'était délicieux\n\n
+<b>this isn\'t what I ordered</b>\n   ce n\'est pas ce que j\'avais commandé\n\n
+<b>this food\'s cold</b>\n   mon plat est froid\n\n
+<b>this is too salty</b>\n   c\'est trop salé\n\n
+<b>this doesn\'t taste right</b>\n   cela a un drôle de goût\n\n
+<b>we\'ve been waiting a long time</b>\n   il y a longtemps que nous attendons\n\n
+<b>is our meal on its way?</b>\n   est-ce que notre repas est prêt?\n\n
+<b>will our food be long?</b>\n   cela va prendre beaucoup de temps?\n\n
+<b>the bill, please</b>\n   l\'addition, s\'il vous plaît\n\n
+<b>could we have the bill, please?</b>\n   on pourrait avoir l\'addition, s\'il vous plaît?\n\n
+<b>can I pay by card?</b>\n   je peux régler par carte?\n\n
+<b>do you take credit cards?</b>\n   vous acceptez les cartes de crédits?\n\n
+<b>is service included?</b>\n   est-ce que le service est compris?\n\n
+<b>can we pay separately?</b>\n   on peut payer séparément?\n\n
+<b>I\'ll get this</b>\n   c\'est pour moi\n\n
+<b>let\'s split it</b>\n   on divise l\'addition?\n\n
+<b>let\'s share the bill</b>\n   on partage l\'addition?\n\n
+<b>Please wait to be seated</b>\n   Veuillez s\'il vous plaît attendre d\'être placés\n\n
+<b>Reserved</b>\n   Réservé\n\n
+<b>Service included</b>\n   Service compris\n\n
+<b>Service not included</b>\n   Service non compris\n\n
+</string>
+
+<string name="CAT25"><b>Magasin</b></string>
+<string name="CAT25_content"><font size="18"><b>Magasin</b></font>\n\n
+<b>what times are you open?</b>\n   vous ouvrez à quelle heure? ; quelles sont vos heures d\'ouverture?\n\n
+<b>we\'re open from 9am to 5pm, Monday to Friday</b>\n   nous sommes ouverts de 9 heures à 17 heures, du lundi au vendredi\n\n
+<b>we\'re open from 10am to 8pm, seven days a week</b>\n   nous sommes ouverts de 10 heures à 20\n\n
+<b>are you open on &#8230;?</b>\n   vous êtes ouvert le &#8230;?\n\n
+<b>Saturday</b>\n   samedi\n\n
+<b>Sunday</b>\n   dimanche\n\n
+<b>what time do you close?</b>\n   à quelle heure fermez-vous?\n\n
+<b>what time do you close today?</b>\n   à quelle heure fermez-vous aujourd\'hui?\n\n
+<b>what time do you open tomorrow?</b>\n   à quelle heure ouvrez-vous demain?\n\n
+<b>can I help you?</b>\n   je peux vous aider?\n\n
+<b>I\'m just browsing, thanks</b>\n   je regarde seulement, merci\n\n
+<b>how much is this?</b>\n   combien ça coûte?\n\n
+<b>how much are these?</b>\n   ils/elles coûtent combien?\n\n
+<b>how much does this cost?</b>\n   combien ça coûte?\n\n
+<b>how much is that &#8230; in the window?</b>\n   combien coûte le/la &#8230; en vitrine?\n\n
+<b>that\'s cheap</b>\n   c\'est bon marché\n\n
+<b>that\'s good value</b>\n   on en a pour son argent\n\n
+<b>that\'s expensive</b>\n   c\'est cher\n\n
+<b>do you sell stamps?</b>\n   vous vendez des timbres?\n\n
+<b>do you have any postcards?</b>\n   vous avez des cartes postales?\n\n
+<b>sorry, we don\'t sell them</b>\n   désolé(e), nous n\'en vendons pas\n\n
+<b>sorry, we don\'t have any left</b>\n   désolé(e), nous n\'en avons plus\n\n
+<b>I\'m looking for the shampoo</b>\n   je cherche le shampooing\n\n
+<b>I\'m looking for a birthday card</b>\n   je cherche une carte d\'anniversaire\n\n
+<b>could you tell me where the &#8230; is?</b>\n   vous pourriez me dire où se trouve&#8230;?\n\n
+<b>where can I find the &#8230;?</b>\n   où puis-je trouver &#8230;?\n\n
+<b>toothpaste</b>\n   du dentifrice\n\n
+<b>have you got anything cheaper?</b>\n   vous n\'avez rien de moins cher?\n\n
+<b>it\'s not what I\'m looking for</b>\n   ce n\'est pas ce que je cherche\n\n
+<b>do you have this item in stock?</b>\n   avez-vous cet article en stock?\n\n
+<b>do you deliver?</b>\n   vous faites les livraisons à domicile?\n\n
+<b>I\'ll take it</b>\n   je le prends\n\n
+<b>I\'ll take this</b>\n   je vais prendre ça\n\n
+<b>anything else?</b>\n   ce sera tout?\n\n
+<b>would you like anything else?</b>\n   vous désirez autre chose?\n\n
+<b>do you take credit cards?</b>\n   vous acceptez les cartes de crédit?\n\n
+<b>I\'ll pay in cash</b>\n   je vais payer en liquide\n\n
+<b>I\'ll pay by card</b>\n   je vais payer par carte de crédit\n\n
+<b>could I have a receipt, please?</b>\n   je pourrais avoir un reçu, s\'il vous plaît?\n\n
+<b>would you like a bag?</b>\n   vous désirez un sac?\n\n
+<b>I\'d like to return this</b>\n   je voudrais un remboursement ; échanger cet article\n\n
+<b>I\'d like to change this for a different size</b>\n   je voudrais cet article en une autre taille\n\n
+<b>it doesn\'t work</b>\n   ça ne marche pas\n\n
+<b>it doesn\'t fit</b>\n   ça ne me va pas\n\n
+<b>could I have a refund?</b>\n   pourriez-vous me rembourser?\n\n
+<b>have you got the receipt?</b>\n   avez-vous le reçu?\n\n
+<b>Open</b>\n   Ouvert\n\n
+<b>Closed</b>\n   Fermé\n\n
+<b>Open 24 hours a day</b>\n   Ouvert 24h/24\n\n
+<b>Special offer</b>\n   Offre spéciale\n\n
+<b>Sale</b>\n   Soldes\n\n
+<b>Clearance sale</b>\n   Liquidation\n\n
+<b>Closing down sale</b>\n   Liquidation totale avant fermeture\n\n
+<b>Good value</b>\n   Bon rapport qualité prix\n\n
+<b>Reduced to clear</b>\n   Réduction de fin de série\n\n
+<b>Half price</b>\n   Moitié prix\n\n
+<b>Out to lunch</b>\n   Parti déjeuner\n\n
+<b>Back in 15 minutes</b>\n   De retour dans 15 minutes\n\n
+</string>
+
+<string name="CAT26"><b>À la banque</b></string>
+<string name="CAT26_content"><font size="18"><b>À la banque</b></font>\n\n
+<b>I\'d like to withdraw 100, please</b>\n   je voudrais retirer 100, s\'il vous plaît\n\n
+<b>I want to make a withdrawal</b>\n   je voudrais faire un retrait\n\n
+<b>how would you like the money?</b>\n   vous préférez des petites ou des grosses coupures?\n\n
+<b>in tens, please (ten pound notes)</b>\n   en billets de dix, s\'il vous plaît\n\n
+<b>could you give me some smaller notes?</b>\n   vous pourriez me donner de plus petites coupures?\n\n
+<b>I\'d like to pay this in, please</b>\n   je voudrais déposer cette somme, s\'il vous plaît\n\n
+<b>I\'d like to pay this cheque in, please</b>\n   je voudrais déposer ce chèque sur mon compte, s\'il vous plaît\n\n
+<b>how many days will it take for the cheque to clear?</b>\n   quel est le délai d\'encaissement de mon chèque?\n\n
+<b>have you got any &#8230;?</b>\n   vous avez &#8230;?\n\n
+<b>identification</b>\n   une pièce d\'identité\n\n
+<b>ID (abréviation de identification)</b>\n   une pièce d\'identité\n\n
+<b>I\'ve got my &#8230;</b>\n   j\'ai &#8230;\n\n
+<b>passport</b>\n   mon passeport\n\n
+<b>driving licence</b>\n   mon permis de conduire\n\n
+<b>ID card</b>\n   ma carte d\'identité\n\n
+<b>your account\'s overdrawn</b>\n   votre compte est à découvert\n\n
+<b>I\'d like to transfer some money to this account</b>\n   je voudrais effectuer un virement sur ce compte\n\n
+<b>could you transfer 1000 from my current account to my deposit account?</b>\n   vous pourriez virer 1.000 de mon compte courant sur mon compte d\'épargne?\n\n
+<b>could you tell me my balance, please?</b>\n   vous pourriez m\'indiquer le solde de mon compte, s\'il vous plaît?\n\n
+<b>could I have a statement, please?</b>\n   vous pourriez m\'imprimer un relevé de compte, s\'il vous plaît?\n\n
+<b>I\'d like to change some money</b>\n   je voudrais changer de l\'argent\n\n
+<b>I\'d like to order some foreign currency</b>\n   je voudrais commander des devises étrangères\n\n
+<b>what\'s the exchange rate for euros?</b>\n   quel est le taux de change de l\'euro?\n\n
+<b>I\'d like some &#8230;</b>\n   je voudrais &#8230;\n\n
+<b>euros</b>\n   des euros\n\n
+<b>US dollars</b>\n   des dollars américains\n\n
+<b>where\'s the nearest cash machine?</b>\n   où est le distributeur (de billets) le plus proche?\n\n
+<b>I\'ve lost my bank card</b>\n   j\'ai perdu ma carte bancaire\n\n
+<b>Insert your card</b>\n   Introduire votre carte\n\n
+<b>Enter your PIN</b>\n   Entrer votre code secret\n\n
+<b>Incorrect PIN</b>\n   Code non valide\n\n
+<b>Enter</b>\n   Entrer\n\n
+<b>Correct</b>\n   Correct\n\n
+<b>Cancel</b>\n   Annuler\n\n
+<b>Withdraw cash</b>\n   Retrait d\'espèces\n\n
+<b>Other amount</b>\n   Autre montant\n\n
+<b>Please wait</b>\n   Veuillez patienter\n\n
+<b>Your cash is being counted</b>\n   On vérifie le montant\n\n
+<b>Insufficient funds</b>\n   Solde insuffisant\n\n
+<b>Balance</b>\n   Solde de votre compte\n\n
+<b>On screen</b>\n   Afficher à l\'écran\n\n
+<b>Printed</b>\n   Imprimer un reçu\n\n
+<b>Another service?</b>\n   Autre service?\n\n
+<b>Would you like a receipt?</b>\n   Désirez-vous un reçu?\n\n
+<b>Remove card</b>\n   Retirer votre carte\n\n
+<b>Quit</b>\n   Quitter\n\n
+</string>
+
+<string name="CAT27"><b>La santé</b></string>
+<string name="CAT27_content"><font size="18"><b>La santé</b></font>\n\n
+<b>what\'s the matter?</b>\n   qu\'est-ce qui ne va pas?\n\n
+<b>I\'m not feeling well</b>\n   je me sens mal\n\n
+<b>I\'m not feeling very well</b>\n   je ne me sens pas très bien\n\n
+<b>I feel ill</b>\n   je suis malade\n\n
+<b>I feel sick</b>\n   je suis malade\n\n
+<b>I\'ve cut myself</b>\n   je me suis coupé\n\n
+<b>I\'ve got a headache</b>\n   j\'ai mal à la tête\n\n
+<b>I\'m not well</b>\n   je ne vais pas bien\n\n
+<b>I\'ve got flu</b>\n   j\'ai la grippe\n\n
+<b>I\'m going to be sick</b>\n   je vais vomir\n\n
+<b>I\'ve been sick</b>\n   j\'ai vomi\n\n
+<b>I\'ve got a pain in my &#8230;</b>\n   j\'ai une douleur dans &#8230;\n\n
+<b>neck</b>\n   le cou\n\n
+<b>my &#8230; are hurting</b>\n   j\'ai mal &#8230;\n\n
+<b>feet</b>\n   aux pieds\n\n
+<b>knees</b>\n   aux genoux\n\n
+<b>my back hurts</b>\n   j\'ai mal au dos\n\n
+<b>have you got any &#8230;?</b>\n   vous avez &#8230;?\n\n
+<b>painkillers</b>\n   des calmants ; des analgésiques\n\n
+<b>paracetamol</b>\n   du paracétamol\n\n
+<b>aspirin</b>\n   de l\'aspirine\n\n
+<b>plasters</b>\n   des pansements\n\n
+<b>how are you feeling?</b>\n   comment tu te sens?\n\n
+<b>are you feeling alright?</b>\n   tu te sens bien?\n\n
+<b>are you feeling any better?</b>\n   tu te sens mieux?\n\n
+<b>I hope you feel better soon</b>\n   j\'espère que tu vas vite guérir\n\n
+<b>get well soon!</b>\n   rétablis-toi vite!\n\n
+<b>I need to see a doctor</b>\n   Il faut que je voie un médecin\n\n
+<b>I think you should go and see a doctor</b>\n   je pense que tu devrais aller voir un médecin\n\n
+<b>do you know a good &#8230;?</b>\n   tu connais un bon &#8230;?\n\n
+<b>doctor</b>\n   médecin\n\n
+<b>dentist</b>\n   dentiste\n\n
+<b>do you know where there\'s an all-night chemists?</b>\n   vous savez où est la pharmacie de garde?\n\n
+</string>
+
+<string name="CAT28"><b>À la pharmacie</b></string>
+<string name="CAT28_content"><font size="18"><b>À la pharmacie</b></font>\n\n
+<b>I\'d like some &#8230;</b>\n   je voudrais &#8230;\n\n
+<b>toothpaste</b>\n   du dentifrice\n\n
+<b>paracetamol</b>\n   du paracétamol\n\n
+<b>I\'ve got a prescription here from the doctor</b>\n   j\'ai une ordonnance du médecin\n\n
+<b>have you got anything for &#8230;?</b>\n   vous avez quelque chose contre &#8230;?\n\n
+<b>cold sores</b>\n   les boutons de fièvre\n\n
+<b>a sore throat</b>\n   le mal de gorge\n\n
+<b>chapped lips</b>\n   les lèvres gercées\n\n
+<b>a cough</b>\n   la toux\n\n
+<b>travel sickness</b>\n   le mal des transports\n\n
+<b>athlete\'s foot</b>\n   la mycose du pied\n\n
+<b>can you recommend anything for a cold?</b>\n   qu\'est-ce que vous me conseillez contre le rhume?\n\n
+<b>I\'m suffering from &#8230;</b>\n   je souffre &#8230;\n\n
+<b>hay fever</b>\n   du rhume des foins\n\n
+<b>indigestion</b>\n   d\'une indigestion\n\n
+<b>diarrhoea</b>\n   de la diarrhée\n\n
+<b>I\'ve got a rash</b>\n   j\'ai une éruption cutanée\n\n
+<b>you could try this cream</b>\n   vous pourriez essayer cette crème\n\n
+<b>if it doesn\'t clear up after a week, you should see your doctor</b>\n   si ça ne va pas mieux d\'ici une semaine, vous devriez consulter votre médecin\n\n
+<b>have you got anything to help me stop smoking?</b>\n   vous avez quelque chose pour m\'aider à arrêter de fumer?\n\n
+<b>can I buy this without a prescription?</b>\n   je peux acheter ça sans ordonnance?\n\n
+<b>it\'s only available on prescription</b>\n   c\'est seulement sur ordonnance\n\n
+<b>does it have any side-effects?</b>\n   il y a des effets négatifs?\n\n
+<b>it can make you feel drowsy</b>\n   cela peut vous donner envie de dormir\n\n
+<b>you should avoid alcohol</b>\n   vous devriez éviter de boire de l\'alcool\n\n
+<b>I\'d like to speak to the pharmacist, please</b>\n   je voudrais parler au pharmacien, s\'il vous plaît\n\n
+</string>
+
+<string name="CAT29"><b>Chez le médecin</b></string>
+<string name="CAT29_content"><font size="18"><b>Chez le médecin</b></font>\n\n
+<b>I\'d like to see a doctor</b>\n   je voudrais voir un médecin\n\n
+<b>do you have an appointment?</b>\n   vous avez rendez-vous?\n\n
+<b>is it urgent?</b>\n   c\'est urgent?\n\n
+<b>I\'d like to make an appointment to see Dr</b>\n   je voudrais un rendez-vous pour voir le docteur\n\n
+<b>do you have any doctors who speak french?</b>\n   est-ce que l\'un de vos médecins parle français?\n\n
+<b>do you have private medical insurance?</b>\n   vous avez une assurance médicale privée?\n\n
+<b>please take a seat</b>\n   asseyez-vous, je vous en prie\n\n
+<b>the doctor\'s ready to see you now</b>\n   le docteur est prêt à vous recevoir\n\n
+<b>how can I help you?</b>\n   je peux vous aider?\n\n
+<b>what\'s the problem?</b>\n   quel est le problème?\n\n
+<b>what are your symptoms?</b>\n   quels sont vos symptomes?\n\n
+<b>I\'ve got a &#8230;</b>\n   j\'ai &#8230;\n\n
+<b>temperature</b>\n   de la fièvre ; de la température\n\n
+<b>sore throat</b>\n   mal à la gorge\n\n
+<b>headache</b>\n   mal à la tête\n\n
+<b>rash</b>\n   une éruption cutanée\n\n
+<b>I\'ve been feeling sick</b>\n   je me sens mal depuis quelques temps\n\n
+<b>I\'ve been having headaches</b>\n   j\'ai mal à la tête depuis quelques temps\n\n
+<b>I\'m very congested</b>\n   j\'ai les bronches très prises\n\n
+<b>my joints are aching</b>\n   j\'ai mal aux articulations\n\n
+<b>I\'ve got diarrhoea</b>\n   j\'ai la diarrhée\n\n
+<b>I\'m constipated</b>\n   je suis constipé\n\n
+<b>I\'ve got a lump</b>\n   j\'ai une grosseur\n\n
+<b>I\'ve got a swollen &#8230;</b>\n   j\'ai &#8230; gonflé(e)\n\n
+<b>ankle</b>\n   la cheville\n\n
+<b>I\'m in a lot of pain</b>\n   j\'ai très mal\n\n
+<b>I\'ve got a pain in my &#8230;</b>\n   j\'ai une douleur &#8230;\n\n
+<b>back</b>\n   au dos\n\n
+<b>chest</b>\n   à la poitrine\n\n
+<b>I think I\'ve pulled a muscle in my leg</b>\n   je pense que je me suis froissé(e) un muscle au niveau de la jambe\n\n
+<b>I\'m &#8230;</b>\n   je suis &#8230;\n\n
+<b>asthmatic</b>\n   asthmatique\n\n
+<b>diabetic</b>\n   diabétique\n\n
+<b>epileptic</b>\n   épileptique\n\n
+<b>I need &#8230;</b>\n   j\'ai besoin &#8230;\n\n
+<b>another inhaler</b>\n   d\'un autre inhalateur\n\n
+<b>some more insulin</b>\n   de plus d\'insuline\n\n
+<b>I\'m having difficulty breathing</b>\n   j\'ai du mal à respirer\n\n
+<b>I\'ve got very little energy</b>\n   je n\'ai pas beaucoup d\'énergie\n\n
+<b>I\'ve been feeling very tired</b>\n   je me sens très fatigué(e) depuis quelques temps\n\n
+<b>I\'ve been feeling depressed</b>\n   je suis déprimé(e) depuis quelques temps\n\n
+<b>I\'ve been having difficulty sleeping</b>\n   je dors mal depuis quelques temps\n\n
+<b>how long have you been feeling like this?</b>\n   depuis combien de temps vous ressentez ça?\n\n
+<b>how have you been feeling generally?</b>\n   comment vous sentez-vous de manière générale?\n\n
+<b>is there any possibility you might be pregnant?</b>\n   il serait possible que vous soyez enceinte?\n\n
+<b>I think I might be pregnant</b>\n   il se pourrait que je sois enceinte\n\n
+<b>do you have any allergies?</b>\n   vous êtes allergique à quelque chose?\n\n
+<b>I\'m allergic to antibiotics</b>\n   je suis allergique aux antibiotiques\n\n
+<b>are you on any sort of medication?</b>\n   vous êtes sous traitement?\n\n
+<b>I need a sick note</b>\n   j\'ai besoin d\'un certificat médical\n\n
+<b>can I have a look?</b>\n   je peux regarder?\n\n
+<b>where does it hurt?</b>\n   où avez-vous mal?\n\n
+<b>it hurts here</b>\n   j\'ai mal ici\n\n
+<b>does it hurt when I press here?</b>\n   ça vous fait mal quand j\'appuie là?\n\n
+<b>I\'m going to take your &#8230;</b>\n   je vais prendre votre &#8230;\n\n
+<b>blood pressure</b>\n   tension (artérielle)\n\n
+<b>temperature</b>\n   température\n\n
+<b>pulse</b>\n   pouls\n\n
+<b>could you roll up your sleeve?</b>\n   vous pourriez remonter votre manche?\n\n
+<b>your blood pressure\'s &#8230;</b>\n   votre tension artérielle est &#8230;\n\n
+<b>quite low</b>\n   assez basse\n\n
+<b>normal</b>\n   normale\n\n
+<b>rather high</b>\n   plutôt élevée\n\n
+<b>very high</b>\n   très élevée\n\n
+<b>your temperature\'s &#8230;</b>\n   votre température est &#8230;\n\n
+<b>normal</b>\n   normale\n\n
+<b>a little high</b>\n   un peu élevée\n\n
+<b>very high</b>\n   très élevée\n\n
+<b>open your mouth, please</b>\n   ouvrez la bouche, s\'il vous plaît\n\n
+<b>cough, please</b>\n   toussez, s\'il vous plaît\n\n
+<b>Treatments and advice</b>\n   Traitement et conseils\n\n
+<b>you\'re going to need a few stiches</b>\n   on va vous faire quelques points de suture\n\n
+<b>I\'m going to give you an injection</b>\n   je vais vous faire une injection / une piqûre\n\n
+<b>we need to take a &#8230;</b>\n   on va vous demander &#8230;\n\n
+<b>urine sample</b>\n   un échantillon d\'urine\n\n
+<b>blood sample</b>\n   une prise de sang\n\n
+<b>you need to have a blood test</b>\n   il vous faut une analyse de sang\n\n
+<b>I\'m going to prescribe you some antibiotics</b>\n   je vais vous préscrire des antibiotiques\n\n
+<b>take two of these pills three times a day</b>\n   prenez deux de ces pilules trois fois par jour\n\n
+<b>take this prescription to the chemist</b>\n   présentez cette ordonnance à la pharmacie\n\n
+<b>do you smoke?</b>\n   vous fumez?\n\n
+<b>you should stop smoking</b>\n   vous devriez arrêter de fumer\n\n
+<b>how much alcohol do you drink a week?</b>\n   quelle quantité d\'alcool buvez-vous par semaine?\n\n
+<b>you should cut down on your drinking</b>\n   vous devriez diminuer votre consommation d\'alcool\n\n
+<b>you need to try and lose some weight</b>\n   vous devez essayer de perdre du poids\n\n
+<b>I want to send you for an x-ray</b>\n   je voudrais vous faire faire une radio\n\n
+<b>I want you to see a specialist</b>\n   il faudrait que vous consultiez un spécialiste\n\n
+</string>
+
+<string name="CAT30"><b>Dentiste</b></string>
+<string name="CAT30_content"><font size="18"><b>Dentiste</b></font>\n\n
+<b>can I make an appointment to see the dentist?</b>\n   je pourrais prendre rendez-vous avec le dentiste?\n\n
+<b>I\'d like a check-up</b>\n   je voudrais me faire faire un bilan\n\n
+<b>please take a seat</b>\n   asseyez-vous, je vous en prie\n\n
+<b>would you like to come through?</b>\n   vous voulez bien me suivre?\n\n
+<b>when did you last visit the dentist?</b>\n   à quand remonte votre dernière visite chez le dentiste?\n\n
+<b>have you had any problems?</b>\n   vous avez eu des problèmes?\n\n
+<b>I\'ve got toothache</b>\n   j\'ai mal à une dent\n\n
+<b>one of my fillings has come out</b>\n   un de mes plombages est parti\n\n
+<b>I\'ve chipped a tooth</b>\n   je me suis cassé / ébréché une dent\n\n
+<b>I\'d like a clean and polish, please</b>\n   je voudrais me faire faire un détartrage s\'il vous plaît\n\n
+<b>can you open your mouth, please?</b>\n   vous pouvez ouvrir la bouche, s\'il vous plaît?\n\n
+<b>a little wider, please</b>\n   ouvrez un peu plus grand, s\'il vous plaît\n\n
+<b>I\'m going to give you an x-ray</b>\n   je vais vous faire passer une radio\n\n
+<b>you\'ve got a bit of decay in this one</b>\n   vous avez une carie à cette dent\n\n
+<b>you\'ve got an abscess</b>\n   vous avez un abcès\n\n
+<b>you need two fillings</b>\n   vous avez besoin de deux plombages\n\n
+<b>I\'m going to have to take this tooth out</b>\n   je vais devoir vous arracher cette dent\n\n
+<b>do you want to have a crown fitted?</b>\n   désirez-vous qu\'on vous mette une couronne?\n\n
+<b>I\'m going to give you an injection</b>\n   je vais vous faire une injection\n\n
+<b>let me know if you feel any pain</b>\n   dites-moi si ça vous fait mal\n\n
+<b>would you like to rinse your mouth out?</b>\n   vous voulez vous rincer la bouche?\n\n
+<b>you should make an appointment with the hygienist</b>\n   vous devriez prendre rendez-vous avec un hygiéniste dentaire\n\n
+<b>how much will it cost?</b>\n   combien ça va coûter?\n\n
+</string>
+
+<string name="CAT31"><b>Téléphoner</b></string>
+<string name="CAT31_content"><font size="18"><b>Téléphoner</b></font>\n\n
+<b>hello</b>\n   allô\n\n
+<b>could I speak to &#8230;, please?</b>\n   je pourrais parler à &#8230;, s\'il vous plaît?\n\n
+<b>who\'s calling?</b>\n   c\'est de la part de &#8230;?\n\n
+<b>could I ask who\'s calling?</b>\n   je peux prendre votre nom?\n\n
+<b>where are you calling from?</b>\n   d\'où téléphonez-vous?\n\n
+<b>how do you spell that?</b>\n   pourriez-vous épeler cela?\n\n
+<b>do you know what extension he\'s on?</b>\n   vous connaissez son numéro de poste? \n\n
+<b>one moment, please</b>\n   un instant, s\'il vous plaît\n\n
+<b>hold the line, please</b>\n   ne quittez pas, s\'il vous plaît\n\n
+<b>I\'ll put him on</b>\n   je vous le passe\n\n
+<b>I\'ll put her on</b>\n   je vous la passe\n\n
+<b>I\'m sorry, he\'s &#8230;</b>\n   je suis désolé(e), il &#8230;\n\n
+<b>not available at the moment</b>\n   n\'est pas disponible pour le moment\n\n
+<b>I\'m sorry, she\'s &#8230;</b>\n   je suis désolé(e), elle est &#8230;\n\n
+<b>on another call</b>\n   déjà en ligne\n\n
+<b>not in at the moment</b>\n   absente pour le moment\n\n
+<b>would you like to leave a message?</b>\n   vous voulez laisser un message?\n\n
+<b>could you ask him to call me?</b>\n   pourriez-vous lui demander de m\'appeler? (homme)\n\n
+<b>could you ask her to call me?</b>\n   pourriez-vous lui demander de m\'appeler? (femme)\n\n
+<b>can I take your number?</b>\n   je peux prendre votre numéro?\n\n
+<b>what\'s your number?</b>\n   quel est votre numéro?\n\n
+<b>could I take your name and number, please?</b>\n   pourrais-je prendre votre nom et votre numéro, s\'il vous plaît?\n\n
+<b>I\'ll call back later</b>\n   je rappellerai plus tard\n\n
+<b>is it convenient to talk at the moment?</b>\n   je ne vous dérange pas?\n\n
+<b>can I call you back?</b>\n   je peux vous rappeler?\n\n
+<b>please call back later</b>\n   pourriez-vous rappeler plus tard\n\n
+<b>thanks for calling</b>\n   merci d\'avoir appelé\n\n
+<b>how do I get an outside line?</b>\n   je fais comment pour appeler un numéro extérieur?\n\n
+<b>have you got a telephone directory?</b>\n   vous avez un annuaire?\n\n
+<b>can I use your phone?</b>\n   je peux utiliser votre téléphone?\n\n
+<b>I can\'t get a dialling tone</b>\n   je n\'ai pas de tonalité\n\n
+<b>the line\'s engaged</b>\n   la ligne est occupée\n\n
+<b>I can\'t get through at the moment</b>\n   je n\'arrive pas à joindre cette personne pour le moment\n\n
+<b>I\'m only getting an answering machine</b>\n   à chaque fois je tombe sur un répondeur\n\n
+<b>sorry, you must have the wrong number</b>\n   désolé(e), vous faites erreur\n\n
+<b>can you hear me OK?</b>\n   vous m\'entendez?\n\n
+<b>I can\'t hear you very well</b>\n   je ne vous entends pas très bien\n\n
+<b>it\'s a bad line</b>\n   la ligne est mauvaise\n\n
+<b>could you please repeat that?</b>\n   vous pourriez répéter, s\'il vous plaît?\n\n
+<b>I\'ve been cut off</b>\n   on a été coupé\n\n
+<b>do you know the number for &#8230;?</b>\n   vous connaissez le numéro &#8230;?\n\n
+<b>could you tell me the number for &#8230;?</b>\n   vous pourriez me donner le numéro de &#8230;?\n\n
+<b>my battery\'s about to run out</b>\n   je n\'ai presque plus de batterie\n\n
+<b>I can\'t get a signal</b>\n   je ne capte pas\n\n
+<b>I\'ve got a very weak signal</b>\n   je capte très mal\n\n
+<b>I\'ll send you a text</b>\n   je t\'enverrai un texto\n\n
+<b>I\'ll text you later</b>\n   je t\'enverrai un texto plus tard\n\n
+<b>I\'d like a phonecard, please</b>\n   je voudrais une carte téléphonique, s\'il vous plaît\n\n
+<b>Thank you for calling.</b>\n   Merci de votre appel.\n\n
+<b>There\'s no-one here to take your call at the moment.</b>\n   Personne ne peut vous répondre pour le moment.\n\n
+<b>Please leave a message after the tone, and we\'ll get back to you as soon as possible.</b>\n   Veuillez laisser un message après le signal sonore, et nous vous rappellerons dès que possible\n\n
+</string>
+
+
+</resources>
